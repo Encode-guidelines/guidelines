@@ -1,2 +1,1 @@
-# encode.github.io
 Guidelines
