@@ -1,1 +1,3 @@
-siamo bravi
+layout: page
+title: "Introduction"
+permalink: /introduction
