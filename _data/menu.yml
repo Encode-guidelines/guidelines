@@ -25,7 +25,7 @@
        - name: "3.2.1 EpiDoc"
          link: /epidoc/
        - name: "3.2.2 Papyri.info"
-         link: /example/
+         link: /papyri_info/
        - name: "3.2.3 CIPEM"
          link: /example/
        - name: "3.2.5 Leiden+"
@@ -38,7 +38,7 @@
        - name: "3.3.1 Software Carpentry"
          link: /example/
        - name: "3.3.2 Programming historian"
-         link: /example/
+         link: /prog_hist/
        - name: "3.3.3 Sunoikisis DC" 
          link: /example/
     - name: "3.4 Portals & Mailing lists"
@@ -47,7 +47,7 @@
        - name: "3.4.1 Digital Classicist"
          link: /digitalcl/
        - name: "3.4.2 PAPY-list"
-         link: /another-example-item/
+         link: /papylist/
        - name: "3.4.3 Other mailing lists"
          link: /mailing_lists/
     - name: "3.5 Bibliographies"
