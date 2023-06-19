@@ -40,7 +40,7 @@
        - name: "3.3.2 Programming historian"
          link: /prog_hist/
        - name: "3.3.3 Sunoikisis DC" 
-         link: /example/
+         link: /sunoikisis/
     - name: "3.4 Portals & Mailing lists"
       link: /portals_mail/
       items:
