@@ -10,7 +10,7 @@ hero_height: is-small
 ---
 
 
-**3.2.1 Guidelines EpiDoc Guidelines**
+**3.2.1 Guidelines EpiDoc Guidelines**23
 
 The [<u>EpiDoc Guidelines</u>](https://epidoc.stoa.org/gl/latest/) are a
 tool produced by the EpiDoc Community that suggests recommendations for
