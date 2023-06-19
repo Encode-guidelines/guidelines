@@ -1,3 +1,15 @@
+---
+layout: page
+title: SunoikisisDC
+permalink: /sunoikisis/
+show_sidebar: false
+toc: true
+menubar: menu
+toc_title: SunoikisisDC
+hero_height: is-small
+---
+
+
 **3.3.3 SunoikisisDC – Sunoikisis Digital Classics**
 
 Sunoikisis Digital Classics was created in 2015 as an international
