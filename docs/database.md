@@ -44,17 +44,17 @@ responsible institutions.
 There are three types of entries:
 
 -   course sessions for which online material is freely available (e.g.
-    > [<u>Module 79 Trismegistos workshop on Ancient World
-    > texts</u>](https://encode.uni-hamburg.de/modules/m79))
+    [<u>Module 79 Trismegistos workshop on Ancient World
+    texts</u>](https://encode.uni-hamburg.de/modules/m79))
 
 -   courses for which the link points to the programme or syllabus on
-    > specific websites (e.g. [<u>Module 46 ENCODE DGLE Workshop
-    > 2021</u>](https://encode.uni-hamburg.de/modules/m46))
+    specific websites (e.g. [<u>Module 46 ENCODE DGLE Workshop
+    2021</u>](https://encode.uni-hamburg.de/modules/m46))
 
 -   courses that bring together the different sessions for each of which
-    > a module has been created (e.g. [<u>Module 78 ENCODE Workshop
-    > Multilingual and Multicultural Digital Infrastructures for Ancient
-    > Written Artefacts</u>](https://encode.uni-hamburg.de/modules/m78))
+    a module has been created (e.g. [<u>Module 78 ENCODE Workshop
+    Multilingual and Multicultural Digital Infrastructures for Ancient
+    Written Artefacts</u>](https://encode.uni-hamburg.de/modules/m78))
 
 The individual module pages are structured in different sections, which
 contain basic information such as the title, author and institution
