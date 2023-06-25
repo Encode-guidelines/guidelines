@@ -93,12 +93,12 @@ The Stoa: A Review for Digital Classics:
 The Digital Classicist Wiki:
 [<u>https://wiki.digitalclassicist.org/Main\_Page</u>](https://wiki.digitalclassicist.org/Main_Page)
 
-> **Video:**
->
-> SunoikisisDC Digital Classics, Autumn 2022. Session 3: *Using and
-> Editing the Digital Classicist Wiki* (Gabriel Bodard, Rosa Lorito,
-> Paolo Monella):
-> [<u>https://youtu.be/BIe1DUburi8</u>](https://youtu.be/BIe1DUburi8)
+**Video:**
+
+SunoikisisDC Digital Classics, Autumn 2022. Session 3: *Using and
+Editing the Digital Classicist Wiki* (Gabriel Bodard, Rosa Lorito,
+Paolo Monella):
+[<u>https://youtu.be/BIe1DUburi8</u>](https://youtu.be/BIe1DUburi8)
 
 **Bibliography**:
 
