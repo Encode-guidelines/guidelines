@@ -42,6 +42,7 @@ The EpiDoc Guidelines Homepage is structured as follows:
     on SourceForge</u>](https://sourceforge.net/p/epidoc/wiki/Home/),
     which points to the main EpiDoc website.
 
+
 2.  The section ‘Tables of contents by transcription style’ aligns
     guidelines of specific projects or transcription styles to the
     general EpiDoc Guidelines. For transcriptional features, in fact,
@@ -50,6 +51,7 @@ The EpiDoc Guidelines Homepage is structured as follows:
     different transcription styles depending on the ancient documents
     edited (Greek and Latin inscriptions and papyri, Egyptian
     documents, Mycenaean tablets...).
+
 
 3.  The following section of the Guidelines ‘Thematic lists of
     guidelines pages’, contains the description of all the elements
@@ -93,6 +95,7 @@ The EpiDoc Guidelines Homepage is structured as follows:
     project’s specific needs. At the bottom of the page, there are
     links to other pages in which the element is also mentioned.
 
+
 4.  The section ‘Appendices’ contains a [<u>Gentle Introduction to
     Mark-Up for
     Epigraphers</u>](https://epidoc.stoa.org/gl/latest/intro-eps.html)
@@ -102,6 +105,7 @@ The EpiDoc Guidelines Homepage is structured as follows:
     of important terms and an [<u>Index of TEI
     elements</u>](https://epidoc.stoa.org/gl/latest/app-elements.html)
     used in EpiDoc.
+
 
 5.  In the last section ‘Externally maintained guidelines for
     specialized communities’ are some useful tools for training, such
@@ -116,6 +120,7 @@ The EpiDoc Guidelines Homepage is structured as follows:
     section has links which point to external Guidelines but specific
     to projects based on EpiDoc, such as Digital Fragmenta
     Historicorum Graecorum, InsAph, InsLib, IOSPE...
+
 
 In addition to the Guidelines, the EpiDoc Community provides other
 tools, such as the aforementioned homepage on SourceForge, which
