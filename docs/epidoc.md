@@ -32,15 +32,15 @@ the bottom of each page.
 The EpiDoc Guidelines Homepage is structured as follows:
 
 1.  The first section ‘Browse Guidelines’ collects different pages,
-    > among which a guide about how to use the EpiDoc Guidelines
-    > ([<u>How to use the EpiDoc
-    > Guidelines</u>](https://epidoc.stoa.org/gl/latest/intro-intro.html)),
-    > an [<u>Overview of EpiDoc
-    > structure</u>](https://epidoc.stoa.org/gl/latest/supp-structure.html),
-    > which contains the EpiDoc template and a prose description of the
-    > different sections of the template, and a page [<u>EpiDoc homepage
-    > on SourceForge</u>](https://sourceforge.net/p/epidoc/wiki/Home/),
-    > which points to the main EpiDoc website.
+    among which a guide about how to use the EpiDoc Guidelines
+    ([<u>How to use the EpiDoc
+    Guidelines</u>](https://epidoc.stoa.org/gl/latest/intro-intro.html)),
+    an [<u>Overview of EpiDoc
+    structure</u>](https://epidoc.stoa.org/gl/latest/supp-structure.html),
+    which contains the EpiDoc template and a prose description of the
+    different sections of the template, and a page [<u>EpiDoc homepage
+    on SourceForge</u>](https://sourceforge.net/p/epidoc/wiki/Home/),
+    which points to the main EpiDoc website.
 
 2.  The section ‘Tables of contents by transcription style’ aligns
     > guidelines of specific projects or transcription styles to the
