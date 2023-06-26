@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Carpentry
-permalink: /leiden+/
+permalink: /soft_carp/
 show_sidebar: false
 toc: true
 menubar: menu
