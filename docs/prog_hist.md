@@ -9,9 +9,9 @@ toc_title: Programming Historian
 hero_height: is-small
 ---
 
-PROGRAMMING HISTORIAN
+# PROGRAMMING HISTORIAN
 
--   ABOUT PH
+## ABOUT PH
 
 *Programming Historian* was founded in 2008 by William J. Turkel and
 Alan MacEachern. Turkel published [a blog
@@ -72,7 +72,7 @@ are permitted to republish their tutorials anywhere, as can anyone, as
 long as they cite the original author and respect his or her moral
 rights.
 
--   PH STRUCTURE
+## PH STRUCTURE
 
 By accessing the [main page](https://programminghistorian.org/), it is,
 first of all, possible to select the language among the four possible
