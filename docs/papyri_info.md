@@ -90,14 +90,14 @@ project for encoding ancient epigraphs, which in turn is based on the
 guidelines that define the XML standard for representing texts in
 digital format.
 
-Resources:
+# Resources:
 
 About Papyri.info: https://papyri.info/docs/about
 
 SoSOL development
 documentation: [[http://papyri.github.io/documentation]{.underline}](http://papyri.github.io/documentation)
 
-Bibliography:
+# Bibliography:
 
 [Vannini, Lucia. \"Review of papyri.info.\" *RIDE* 9 (2018). doi:
 10.18716/ride.a.9.4]{.mark}
