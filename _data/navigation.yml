@@ -9,29 +9,30 @@
  - name: "Building a corpus"
    dropdown:
      - name: "3.1.1 Creation"
-       link: /example
+       link: /db_creation/
      - name: "3.1.2 Publication"
-       link: /example/
+       link: /db_publication/
      - name: "3.1.3 Sharing"
-       link: /example/
+       link: /db_share_store/
      - name: 3.1.4 LOD
-       link: /example/    
+       link: /lod/    
  - name: "Best practices"
+   link: /epidoc/
    dropdown:       
      - name: "3.2.1 EpiDoc"
        link: /epidoc/
      - name: "3.2.2 Papyri.info"
        link: /papyri_info/
      - name: "3.2.3 CIPEM"
-       link: /example/
+       link: /myc/
      - name: "3.2.5 Leiden+"
-       link: /example/
+       link: /leiden+/
      - name: "3.2.5 Sustainability"
-       link: /example/
+       link: /sustain/
  - name: "Courses"
    dropdown:       
      - name: "3.3.1 Software Carpentry"
-       link: /example/
+       link: /soft_carp/
      - name: "3.3.2 Programming historian"
        link: /prog_hist/
      - name: "3.3.3 Sunoikisis DC" 
@@ -39,7 +40,7 @@
  - name: "Portals/@-lists"
    dropdown:
      - name: "3.4 Portals & Mailing lists"
-       link: /portals_mail/
+       link: /port_mail/
      - name: "3.4.1 Digital Classicist"
        link: /digitalcl/
      - name: "3.4.2 PAPY-list"
