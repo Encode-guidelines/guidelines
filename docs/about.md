@@ -9,6 +9,6 @@ toc_title: Introduction
 hero_height: is-small
 ---
 
-Here we will write the general introduction of the [Encode project][encode]
+Here we will soon write the general introduction of the [Encode project][encode]
 
 {% include links.md %}
