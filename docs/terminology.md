@@ -9,4 +9,29 @@ toc_title: Terminology
 hero_height: is-small
 ---
 
-Here we will list and explain terminology
+command line
+
+CURL
+
+digital/digitized editions
+
+fork
+
+interface
+
+ontology
+
+programming language
+
+sparql
+
+static/dynamic website
+
+URI
+
+URL
+
+
+
+
+
