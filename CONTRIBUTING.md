@@ -11,7 +11,7 @@ hero_height: is-small
 
 # How to Contribute To The Encode Guidelines
 
-## Format:
+## Format
 
 you have various possibilities:
 
@@ -55,16 +55,15 @@ you have various possibilities:
  4. you can also put Word documents in the [ENCODE common drive](https://drive.google.com/drive/folders/1zrehnzzbwKl4cjvHnlZ1MhNbF_Xt4Ym7) and then it
     will be converted by the current editor of the Guidelines (currently after the 7/8).
 
-## Content:
+## Content
 
 The ENCODE guidelines are conceived as a companion resource to the ENCODE open online course, published ond DARIAH teach, and to the ENCODE Database. They are conceived as a more dynamic and updated reference resource, presenting a more systematic list of resources for digital methodes in the study of ancient writing cultures and for the learning and teaching of them. The educational focus is the distinctive character of this resource, as it was of the [ENCODE project](https://site.unibo.it/encode/en), which constitutes their background.
 Resources are here presented which teachers and learners approaching digital methodes in the study of ancient writing cultures should become familiar with or, at the very least, know the existence of. 
 
-### Structure
-
 Resources have been divided in the following sections, reflected by the structure of the website:
 
-##Corpus and database creation: resources are listed which are useful to create, work with, store, publish and disseminate databases (with particular regard for the creation of textual corpora of ancient languages). At the moment it comprises the following pages/documents:
+### Corpus and database creation
+Resources are listed which are useful to create, work with, store, publish and disseminate databases (with particular regard for the creation of textual corpora of ancient languages). At the moment it comprises the following pages/documents:
 
 - [Creation](https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/corpus_db.md)
 - [Publication](https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/db_publication.md)
@@ -73,25 +72,28 @@ Resources have been divided in the following sections, reflected by the structur
   
 Resource descriptions can be inserted into the current markdown documents or uploaded as Word files as describe in point 2 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format).
 
-##Best practices: links to guidelines, user manuals and best practices summaries
+### Best practices: links to guidelines, user manuals and best practices summaries
 
 Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format)
 
-##Courses: resources offering open access lessons and courses about relevant themes
+### Courses: resources offering open access lessons and courses about relevant themes
 
 Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#f
 
-##Portals and mailing lists: relevant sites such as 
+### Portals and mailing lists: relevant sites such as 
 
 Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#f
 
-##Bibliographies: relevant online bibliographies such as [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography) or the [BIBLIOGRAPHIE PAPYROLOGIQUE
+### Bibliographies:
+
+Relevant online bibliographies such as [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography) or the [BIBLIOGRAPHIE PAPYROLOGIQUE
 EN LIGNE](http://www.aere-egke.be/BP/):
 
 https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/biblio.md
 
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#f
+Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format)
 
+### Intro & Terminology
 The site is completed by:
 
 - an **introduction** about:
