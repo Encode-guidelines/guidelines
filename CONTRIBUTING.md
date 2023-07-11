@@ -91,12 +91,12 @@ EN LIGNE](http://www.aere-egke.be/BP/):
 
 https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/biblio.md
 
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format)
+Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 above.
 
 ### Intro & Terminology
 The site is completed by:
 
-- an **introduction** about:
+- an **Introduction** about:
 
  - the Encode project
 
