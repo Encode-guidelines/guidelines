@@ -9,7 +9,7 @@ toc_title: CONTRIBUTING
 hero_height: is-small
 ---
 
-# How to Contribute To This Repository
+# How to Contribute To The Encode Guidelines
 
 ## Format:
 
