@@ -70,28 +70,22 @@ Resources are listed which are useful to create, work with, store, publish and d
 - [Storing & sharing](https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/db_share_store.md)
 - [Sharing with LOD](https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/lod.md)
   
-Resource descriptions can be inserted into the current markdown documents or uploaded as Word files as describe in point 2 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format).
+Resource descriptions can be inserted into the current markdown documents or uploaded as Word files as described in point 2 and 4 above.
 
-### Best practices: links to guidelines, user manuals and best practices summaries
+### Best practices
+Links to guidelines, user manuals and best practices summaries. Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as described in point 1 and 4 above. 
 
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#format)
+### Courses
+Resources offering open access lessons and courses about relevant themes. Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as described in point 1 and 4 above.
 
-### Courses: resources offering open access lessons and courses about relevant themes
+### Portals and mailing lists
+Relevant resources such as [Digital Classicist](https://www.digitalclassicist.org/) or PAPY-list. Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as described in point 1 and 4 above.
 
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#f
-
-### Portals and mailing lists: relevant sites such as 
-
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 [above](https://github.com/Encode-guidelines/guidelines/edit/gh-pages/CONTRIBUTING.md#f
-
-### Bibliographies:
-
+### Bibliographies
 Relevant online bibliographies such as [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography) or the [BIBLIOGRAPHIE PAPYROLOGIQUE
 EN LIGNE](http://www.aere-egke.be/BP/):
 
-https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/biblio.md
-
-Resource descriptions can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as describe in point 1 and 4 above.
+Shorter resource descriptions can be inserted into the current markdown document: https://github.com/Encode-guidelines/guidelines/blob/gh-pages/docs/biblio.md or uploaded as Word files as described in point 2 and 4 above, while longer ones can be uploaded as markdown documents in the [docs folder](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs) or uploaded as Word files as described in point 1 and 4 above.
 
 ### Intro & Terminology
 The site is completed by:
