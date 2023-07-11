@@ -16,31 +16,31 @@ hero_height: is-small
 you have various possibilities:
 
 1. add  a markdown (.md) file to the folder [docs](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs).
-   To create a markdown file, create a .txt file and then change the file extension to .md. If you add the following:
-   \---
-   layout: page
-   title: *add-a-title*
-   permalink: */add-a-one-word-title/*
-   show_sidebar: false
-   menubar: menu
-   toc: true
-   toc_title: *add-a-table-of-content-title*
-   hero_height: is-small
-   \---
+   To create a markdown file, create a .txt file and then change the file extension to *.md*.
+   
+   If you add the following (including the \--- at the beginning and at the end):  
 
-   to the top of your document and substitute the parts in *italics* (but don't write them in *italics* in the documents), you will be able to see it
-   in the [Guidelines website](https://encode-guidelines.github.io/guidelines/), by typing https://encode-guidelines.github.io/guidelines/the-one-word
-   title_you-added/ in your browser (you can also open the present page in GitHub and take its top part as an example).
+   \---  
+   layout: page  
+   title: *add-a-title*  
+   permalink: */add-a-one-word-title/*  
+   show_sidebar: false  
+   menubar: menu  
+   toc: true  
+   toc_title: *add-a-table-of-content-title*  
+   hero_height: is-small  
+   \---  
 
-   [Here:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting
-   syntax) you'll find instructions on how to write in markdown in GitHub. A more comprehensive reference is to be found [here
-   (https://www.markdownguide.org/).
+   to the top of your document and substitute the parts in *italics* (but don't write them in *italics* in the document), you will be able to see it
+   in the [Guidelines website](https://encode-guidelines.github.io/guidelines/), by typing https://encode-guidelines.github.io/guidelines/the-one-word-title-you-added/ in your browser (you can also open the present page in GitHub and take its top part as an example).
 
-   NB: section titles that we want to appear in the Table of Content of the webpage
+   [Here:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) you'll find instructions on how to write in markdown in GitHub. A more comprehensive reference is to be found [here] (https://www.markdownguide.org/).
 
-   Remember that changes may take up to 10 minutes to show up in the [online version of the Guidelines](https://encode-guidelines.github.io/guidelines/)
+   NB!: section titles that you want to appear in the page's Table of Content (see, e.g. the [EpiDoc page in these Guidelines](https://encode-guidelines.github.io/guidelines/epidoc/)) of the webpage need to be preceded by ## or ### (for subtitles).
 
-2. edit a .md file already present in the folder [docs](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs)
+   **Remember that changes may take up to 10 minutes to show up in the [online version of the Guidelines](https://encode-guidelines.github.io/guidelines/)**
+   
+3. edit a .md file already present in the folder [docs](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs)
 
    please, do not change anything between the two "---" on the top of the page of existing .md documents, as it would result in changes/errors in the
    [Guidelines website](https://encode-guidelines.github.io/guidelines/).
