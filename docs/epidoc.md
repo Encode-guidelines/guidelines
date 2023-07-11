@@ -9,8 +9,7 @@ toc_title: EpiDoc
 hero_height: is-small
 ---
 
-
-**3.2.1 Guidelines EpiDoc Guidelines**
+## EpiDoc Guidelines
 
 The [<u>EpiDoc Guidelines</u>](https://epidoc.stoa.org/gl/latest/) are a
 tool produced by the EpiDoc Community that suggests recommendations for
@@ -133,7 +132,7 @@ information on EpiDoc workshops. Moreover, EpiDoc has a page on The
 Digital Classicist Wiki, with links to projects, tools and other
 resources related to the EpiDoc community.
 
-**Resources:**
+## Resources
 
 EpiDoc Guidelines 9.4:
 [<u>https://epidoc.stoa.org/gl/latest/</u>](https://epidoc.stoa.org/gl/latest/)
@@ -147,7 +146,7 @@ GitHub page on EpiDoc:
 EpiDoc on Digital Classicist:
 [<u>https://wiki.digitalclassicist.org/EpiDoc</u>](https://wiki.digitalclassicist.org/EpiDoc)
 
-**Bibliography:**
+## Bibliography
 
 Vagionakis 2021: I. Vagionakis, *EpiDoc Tutorial: Introduction to EpiDoc
 Guidelines*:
