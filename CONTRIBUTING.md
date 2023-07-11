@@ -18,9 +18,9 @@ you have various possibilities:
 1. add  a markdown (.md) file to the folder [docs](https://github.com/Encode-guidelines/guidelines/tree/gh-pages/docs).
    To create a markdown file, create a .txt file and then change the file extension to *.md*.
    
-   If you add the following (including the \--- at the beginning and at the end):  
+   If you add the following (including the \-\-\- at the beginning and at the end):  
 
-   \---  
+   \-\-\-  
    layout: page  
    title: *add-a-title*  
    permalink: */add-a-one-word-title/*  
@@ -29,7 +29,7 @@ you have various possibilities:
    toc: true  
    toc_title: *add-a-table-of-content-title*  
    hero_height: is-small  
-   \---  
+   \-\-\-  
 
    to the top of your document and substitute the parts in *italics* (but don't write them in *italics* in the document), you will be able to see it
    in the [Guidelines website](https://encode-guidelines.github.io/guidelines/), by typing https://encode-guidelines.github.io/guidelines/the-one-word-title-you-added/ in your browser (you can also open the present page in GitHub and take its top part as an example).
