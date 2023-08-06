@@ -10,5 +10,5 @@ hero_height: is-small
 ---
 
 **Bibliographies**
-EpiDoc Bibliography: https://epidoc.stoa.org/gl/latest/app-bibliography.html 
-Digital Classics Bibliography: https://wiki.digitalclassicist.org/Digital_Classics_Bibliography 
+EpiDoc Bibliography: [<u>https://epidoc.stoa.org/gl/latest/app-bibliography.html</u>](https://epidoc.stoa.org/gl/latest/app-bibliography.html) 
+Digital Classics Bibliography: [<u>https://wiki.digitalclassicist.org/Digital_Classics_Bibliography</u>](https://wiki.digitalclassicist.org/Digital_Classics_Bibliography) 
