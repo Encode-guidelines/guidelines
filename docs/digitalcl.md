@@ -102,11 +102,11 @@ Paolo Monella):
 
 **Bibliography**:
 
-Mahony 2011: S. Mahony, *Research Communities and Open Collaboration:
-The Example of the Digital Classicist Wiki*, in *Digital Medievalist 6*.
-Available:
+Mahony, Simon. "Research Communities and Open Collaboration:
+The Example of the Digital Classicist Wiki". *Digital Medievalist* 6 (2011).
+Available at:
 [<u>http://doi.org/10.16995/dm.26</u>](http://doi.org/10.16995/dm.26)
 
-Terras 2010: M. Terras, *The Digital Classicist: Disciplinary Focus and
-Interdisciplinary Vision*. In S. Mahony, G. Bodard, *Digital Research in
-the Study of Classical Antiquity*, London 2010, 171-189
+Terras, Melissa. "The Digital Classicist: Disciplinary Focus and
+Interdisciplinary Vision". In *Digital Research in
+the Study of Classical Antiquity*, edited by S. Mahony, G. Bodard, 171-189. London: Routledge, 2010.
