@@ -83,7 +83,7 @@ SunoikisisDC YouTube channel:
 
 **Bibliography:**
 
-Berti 2015, M. Berti, *Sunoikisis DC - An International Consortium of
+Berti, Monica. *Sunoikisis DC - An International Consortium of
 Digital Classics Programmes*, Digital Classicist London seminar (July
 10, 2015). Available at:
 [<u>https://www.youtube.com/watch?v=zpBR0bb8gxk</u>](https://www.youtube.com/watch?v=zpBR0bb8gxk)
