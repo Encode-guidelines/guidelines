@@ -531,24 +531,23 @@ DOI: [<u>10.2760/115376
 
 **Bibliography:**
 
-Bodard, Stoyanova 2016: G. Bodard, S. Stoyanova, *Epigraphers and
-Encoders: Strategies for Teaching and Learning Digital Epigraphy*, in M.
-Romanello, G. Bodard (eds.) *Digital Classics Outside the Echo-Chamber:
-Teaching, Knowledge Exchange & Public Engagement*, London 2016, 51–68
+Bodard, Gabriel and Stoyanova, Simona. "Epigraphers and
+Encoders: Strategies for Teaching and Learning Digital Epigraphy". In *Digital Classics Outside the Echo-Chamber:
+Teaching, Knowledge Exchange & Public Engagement*, edited by M.
+Romanello and G. Bodard, 51-68. London: Ubiquity Press, 2016.
 
-Parker, Rollston 2019: H.D.D. Parker, Ch.A. Rollston, *Teaching
-Epigraphy in the Digital Age*, in D. Hamidović, C. Clivaz S. Bowen
-Savant S. (eds.) *Ancient Manuscripts in Digital Culture. Visualisation,
-Data Mining, Communication*, E-Book 2019, 189–216
+Parker, Heather D.D. and Rollston, Christopher A. "Teaching
+Epigraphy in the Digital Age". In *Ancient Manuscripts in Digital Culture. Visualisation,
+Data Mining, Communication*, edited by D. Hamidović, C. Clivaz S. Bowen
+Savant, 189-216. E-Book: Brill, 2019.
 
-Salvaterra, Bencivenni, Fogagnolo, Gheldof, Vagionakis 2023: C.
-Salvaterra, A. Bencivenni, M. Fogagnolo, T. Gheldof, I. Vagionakis,
-*ENCODE4OpenU and the Preparation and Delivery of an International
+Salvaterra, Carla, Bencivenni, Alice, Fogagnolo, Marta, Gheldof, Tom and Vagionakis Irene. 
+"ENCODE4OpenU and the Preparation and Delivery of an International
 Collaborative MOOC: A Preliminary Analysis of its Pedagogical and
-Technical Implementation*, in *Educ. Sci.* 13(1) 43 (2023):
+Technical Implementation". *Educ. Sci.* 13, no. 1, 43 (2023):
 [<u>https://doi.org/10.3390/educsci13010043</u>](https://doi.org/10.3390/educsci13010043)
 
-Wagenaar 2018a: R. Wagenaar (ed.), *Tuning-CALOHEE assessment reference
+Wagenaar, Robert. *Tuning-CALOHEE assessment reference
 frameworks for civil engineering, teacher education, history, nursing,
-physics*. International Tuning Academy.
+physics*. International Tuning Academy, 2018:
 [<u>https://repositorio-aberto.up.pt/handle/10216/118864</u>](https://repositorio-aberto.up.pt/handle/10216/118864)
