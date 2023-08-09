@@ -148,6 +148,6 @@ EpiDoc on Digital Classicist:
 
 ## Bibliography
 
-Vagionakis 2021: I. Vagionakis, *EpiDoc Tutorial: Introduction to EpiDoc
-Guidelines*:
+Vagionakis, Irene. *EpiDoc Tutorial: Introduction to EpiDoc
+Guidelines*, 2021:
 [<u>https://www.youtube.com/watch?v=mK8S-olT34k</u>](https://www.youtube.com/watch?v=mK8S-olT34k)
