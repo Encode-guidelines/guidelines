@@ -10,7 +10,7 @@ hero_height: is-small
 ---
 
 
-# About Papyri.info
+## About Papyri.info
 
 The [Papyri.info ](http://www.papyri.info/) portal is the
 most comprehensive resource for accessing and studying ancient papyrus
@@ -44,7 +44,7 @@ have the opportunity to register, submit new texts and metadata, and
 edit existing entries. These submissions undergo an editorial vetting
 process to ensure adherence to scholarly standards.
 
-# Papyri.info's Structure
+## Papyri.info's Structure
 
 The platform is structured into two main sections: the Papyrological
 Navigator and the Papyrological Editor.
@@ -90,14 +90,14 @@ project for encoding ancient epigraphs, which in turn is based on the
 guidelines that define the XML standard for representing texts in
 digital format.
 
-# Resources:
+## Resources:
 
 About Papyri.info: https://papyri.info/docs/about
 
 SoSOL development
 documentation: [http://papyri.github.io/documentation](http://papyri.github.io/documentation)
 
-# Bibliography:
+## Bibliography:
 
 [Vannini, Lucia. \"Review of papyri.info.\" *RIDE* 9 (2018). doi:
 10.18716/ride.a.9.4]{.mark}
