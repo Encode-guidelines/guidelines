@@ -78,11 +78,11 @@ details about the organisation of the whole course.
 
 **Bibliography**
 
-Bencivenni, Fogagnolo 2023: A. Bencivenni, M. Fogagnolo, *Bridging the
-&lt;gap&gt;: il progetto ENCODE e l’epigrafia digitale*, in *Scienze
-dell’Antichità* 29/2 (2023), *forthcoming*.
+Bencivenni, Alice and Fogagnolo, Marta. "Bridging the
+&lt;gap&gt;: il progetto ENCODE e l’epigrafia digitale". *Scienze
+dell’Antichità* 29, no. 2 (2023), *forthcoming*.
 
-Elagina 2021: D. Elagina, *Modelling Vocabulary of Digital Competencies
+Elagina, Daria. *Modelling Vocabulary of Digital Competencies
 for the Project ENCODE*, Digital Classicist London 2021 (23th July
 2021):
 [<u>https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s</u>](https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s).
