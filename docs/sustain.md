@@ -15,6 +15,7 @@ hero_height: is-small
 In recent years, it has become increasingly important to address concerns about the long-term sustainability of Digital Humanities projects. When beginning a project, it is important to be aware of two major perspectives:
 
 a.	The long-term sustainability of digital platforms and the content they store
+
 b.	The impact digital platforms have on Earth sustainability and the environment
 
 The first perspective is how Digital Humanities scholars look into various aspects of knowledge and technology when planning, developing, and bringing to life projects. Especially how long-term perspectives of those projects are understood as part of various infrastructures. The latter can be universities, their technical system, and international cooperation. The second perspective relies on the United Nations 17 Sustainable Development Goals (sdgs.un.org). For instance, images and videos are stored, then downloaded, and may be stored again can require quite a large amount of energy. Another issue is how various content inside developed digital services are available to all. In this MOOC, we will explore the relationship between digital humanities projects and sustainable systems and mindsets. The goal of this MOOC is to assist researchers in making informed and responsible decisions when it comes to the environment and sustainability of digital resources.
