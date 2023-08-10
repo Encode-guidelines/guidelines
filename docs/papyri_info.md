@@ -12,7 +12,7 @@ hero_height: is-small
 
 # About Papyri.info
 
-The [[Papyri.info ](http://www.papyri.info/) portal is the
+The [Papyri.info ](http://www.papyri.info/) portal is the
 most comprehensive resource for accessing and studying ancient papyrus
 texts. Its primary goal is to bring together various collections of
 papyrus texts and make them accessible to researchers worldwide. The
