@@ -9,6 +9,8 @@ toc_title: Terminology
 hero_height: is-small
 ---
 
+
+
 **3D Modelling/3D Imaging**: 3D modelling is the production of a 3D reconstruction of a lost, damaged or conjectured object or structure via specialized software. The difference with 3D imaging is that this one technologically captures an existing object via scanning, photographing, or otherwise accurately capturing the surface, geometry or volume of the original object.
 
 **Authority list**: an authority list is a controlled vocabulary you can create if you want to save repeatable information, enforcing consistency within your corpus/database. You may want to generate authority lists about persons, places, institutions, and so on within your corpus/database or to refer to external authority lists (such as Pleiades, LGPN, EAGLE Vocabularies…).
