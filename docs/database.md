@@ -9,8 +9,8 @@ toc_title: ENCODE Database
 hero_height: is-small
 ---
 
-##Description of the ENCODE Database and the ENCODE
-teaching modules##
+## Description of the ENCODE Database and the ENCODE
+teaching module
 
 The [ENCODE database](https://gn.biblhertz.it/encode/)
 is designed to contain innovative and customisable
@@ -76,7 +76,7 @@ which the individual sessions were held: a section in the individual
 modules provides a link which points to such larger modules that gives
 details about the organisation of the whole course.
 
-##Bibliography##
+## Bibliography
 
 Bencivenni, Alice and Fogagnolo, Marta. "Bridging the
 &lt;gap&gt;: il progetto ENCODE e l’epigrafia digitale". *Scienze
