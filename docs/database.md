@@ -9,10 +9,11 @@ toc_title: ENCODE Database
 hero_height: is-small
 ---
 
-**2.1. Description of the ENCODE Database and the ENCODE
-teaching modules**
+##Description of the ENCODE Database and the ENCODE
+teaching modules##
 
-The ENCODE database is designed to contain innovative and customisable
+The [ENCODE database](https://gn.biblhertz.it/encode/)
+is designed to contain innovative and customisable
 teaching modules, both basic and advanced, aimed at promoting digital
 education in the field of ancient writings and scripts and enhancing
 participatory and intercultural approaches to cultural heritage. It is
@@ -29,14 +30,13 @@ of the modules themselves: the same reference frameworks were used for
 the competence questionnaires and open badges distributed to
 participants at the end of the workshops organised by the project as
 registered in the descriptions of the [<u>ENCODE Learning Outcomes and
-Competences</u>](https://site.unibo.it/encode/en/training-events). On
-the classification of competences and areas of competence acquisition,
-<span class="mark">see 2.2. How we build the competences.</span>
+Competences</u>](https://site.unibo.it/encode/en/training-events)of each training event.
+On the classification of competences and areas of competence acquisition, see [2.2.](docs/competences.md)
+on how we devised the competences.
 
-The database can be search either by browsing the individual sections on
-modules, competences and areas of competence acquisition (the pages *All
-modules*, *All competences*, *All focuses*), or through the *Search*
-page, which includes a search mask in which one can search by textual
+The database can be searched either by browsing the individual sections on
+[modules](https://gn.biblhertz.it/encode/modules), [competences](https://gn.biblhertz.it/encode/competences)
+and [areas of competence acquisition (focuses)](https://gn.biblhertz.it/encode/focuses), or through the [Search page](https://gn.biblhertz.it/encode/search.html), which includes a search mask in which one can search by textual
 strings or use facets combining different parameters such as course
 format, competences, incoming and outgoing levels, focuses, authors or
 responsible institutions.
@@ -76,7 +76,7 @@ which the individual sessions were held: a section in the individual
 modules provides a link which points to such larger modules that gives
 details about the organisation of the whole course.
 
-**Bibliography**
+##Bibliography##
 
 Bencivenni, Alice and Fogagnolo, Marta. "Bridging the
 &lt;gap&gt;: il progetto ENCODE e l’epigrafia digitale". *Scienze
