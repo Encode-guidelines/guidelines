@@ -9,8 +9,7 @@ toc_title: ENCODE Database
 hero_height: is-small
 ---
 
-## Description of the ENCODE Database and the ENCODE
-teaching module
+## Description of the ENCODE Database and the ENCODE teaching modules
 
 The [ENCODE database](https://gn.biblhertz.it/encode/)
 is designed to contain innovative and customisable
