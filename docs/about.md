@@ -8,7 +8,7 @@ toc: true
 toc_title: Introduction
 hero_height: is-small
 ---
-
+**prova**
 The ENCODE guidelines are conceived as a companion resource to the ENCODE open online course, published ond DARIAH teach, and to the ENCODE Database. They are conceived as a more dynamic and updated reference resource, presenting a more systematic list of resources for digital methodes in the study of ancient writing cultures and for the learning and teaching of them. The educational focus is the distinctive character of this resource, as it was of the [ENCODE project](https://site.unibo.it/encode/en), which constitutes their background.
 Resources are here presented which teachers and learners approaching digital methodes in the study of ancient writing cultures should become familiar with or, at the very least, know the existence of. 
 
