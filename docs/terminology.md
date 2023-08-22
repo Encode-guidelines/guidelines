@@ -51,7 +51,7 @@ static/dynamic website
 
 URI
 
-URL
+**URL**: URL is an acronym for Uniform Resource Locator. It is a reference or address used to locate resources such as web pages, files, or other online content. It typically consists of a protocol identifier (_e.g._, http or https), a domain name, and a specific path to the resource.
 
 **XML**: XML is an acronym for eXtensible Markup Language. XML is a markup that allows the structured encoding of text or data in human- and machine-readable format.
 
