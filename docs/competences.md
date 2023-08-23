@@ -9,8 +9,7 @@ toc_title: ENCODE Database
 hero_height: is-small
 ---
 
-**2.2. Description of how we built the competences (pointing to the
-standards)**
+## The ENCODE competences
 
 Training materials have been collected and organised on the basis of a
 definition of competences and learning outcomes aligned to international
@@ -88,8 +87,7 @@ More specifically, we have considered two main Reference Frameworks:
     training carried out by the EpiDoc community (the community of
     scholars active in digital edition of Inscriptions and papyri)
 
-**2.2.1. The CALOHEE Subject Area Learning Outcomes / Assessment
-Reference Framework**
+### The CALOHEE Subject Area Learning Outcomes / Assessment Reference Framework
 
 CALOHEE offers a template and menu as to what can be learned in the
 context of a degree programme in a given subject area (in our case:
@@ -165,7 +163,7 @@ interpretive skills.
 As entry requirements for our training we have thus adapted the
 descriptors in appendix.
 
-**2.2.2 The DigComp 2.2 Framework**
+### The DigComp 2.2 Framework
 
 This framework addresses digital transformation and is aimed at
 providing a shared definition of digital competences. DigComp, as the
@@ -200,17 +198,12 @@ documents of the training events:
 [<u>https://site.unibo.it/encode/en/training-events</u>](https://site.unibo.it/encode/en/training-events)
 and summarised here below in the two appendixes.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\*\*\*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Appendix 1**
+## Appendix 1: Competences required as entry requirements for the training activities designed and delivered within the ENCODE project
 
-**Competences required as entry requirements for the training activities
-designed and delivered within the ENCODE project\*\*.**
+The Learning outcomes are aligned with the CALOHEE History Reference and Assessment Framework - Level 6.
 
-**The Learning outcomes are aligned with the CALOHEE History Reference
-and Assessment Framework - Level 6.**
-
-**\*\*Training activities**
+**Training activities**
 
 -   Encode Digital Greek And Latin Epigraphy Workshop - Bologna, January 25-29 2021.
     
@@ -370,13 +363,10 @@ Infrastructures for Ancient Written Artefacts**
 -   Can apply appropriate theoretical and clear conceptual approaches to
     humanities research.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\*\*\*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Appendix 2**
-
-**Competences for the training activities designed and delivered in the
+## Appendix 2: Competences for the training activities designed and delivered in the
 ENCODE project from CALOHEE History Reference and Assessment Framework -
-Level 6.**
+Level 6.
 
 **COMPETENCE AREA 1: INFORMATION AND DATA LITERACY**
 
@@ -529,7 +519,7 @@ DOI: [<u>10.2760/115376
 (online)</u>](https://dx.doi.org/10.2760/115376), <u>[10.2760/490274
 (print)](https://dx.doi.org/10.2760/490274)</u>
 
-**Bibliography:**
+## Bibliography
 
 Bodard, Gabriel and Stoyanova, Simona. "Epigraphers and
 Encoders: Strategies for Teaching and Learning Digital Epigraphy". In *Digital Classics Outside the Echo-Chamber:

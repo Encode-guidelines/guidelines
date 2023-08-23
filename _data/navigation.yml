@@ -1,6 +1,6 @@
  - name: "Intro"
    dropdown:
-    - name: Introduction
+    - name: The ENCODE Guidelines
       link: /introduction/
     - name: The structure of the ENCODE Database
       link: /database/
