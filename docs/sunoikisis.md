@@ -9,9 +9,6 @@ toc_title: SunoikisisDC
 hero_height: is-small
 ---
 
-
-**3.3.3 SunoikisisDC – Sunoikisis Digital Classics**
-
 Sunoikisis Digital Classics was created in 2015 as an international
 consortium developed by the Alexander von Humboldt Chair of Digital
 Humanities at the University of Leipzig in collaboration with the
@@ -64,7 +61,7 @@ readings, other useful resources and exercises. Sessions last 90 minutes
 and the teachers’ presentations are followed by questions from the
 convenors and the audience, who can interact via a real-time chat.
 
-**Resources:**
+## Resources
 
 SunoikisisDC main website:
 [<u>https://sunoikisisdc.github.io/</u>](https://sunoikisisdc.github.io/)
@@ -81,7 +78,7 @@ Google Spreadsheet of the SunoikisisDC Sessions:
 SunoikisisDC YouTube channel:
 [<u>https://www.youtube.com/@sunoikisisdc2110</u>](https://www.youtube.com/@sunoikisisdc2110)
 
-**Bibliography:**
+## Bibliography
 
 Berti, Monica. *Sunoikisis DC - An International Consortium of
 Digital Classics Programmes*, Digital Classicist London seminar (July
