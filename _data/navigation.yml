@@ -31,7 +31,7 @@
        link: /sustain/
  - name: "Courses"
    dropdown:       
-     - name: "3.3.1 Software Carpentry"
+     - name: "3.3.1 The Carpentries"
        link: /soft_carp/
      - name: "3.3.2 Programming historian"
        link: /prog_hist/
