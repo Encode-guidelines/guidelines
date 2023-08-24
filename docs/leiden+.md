@@ -9,8 +9,6 @@ toc_title: Leiden+
 hero_height: is-small
 ---
 
-# Leiden+
-## About Leiden+
 Leiden+ is a tag-lite markup language that adapts the [Leiden Conventions](https://en.wikipedia.org/wiki/Leiden_Conventions) to the digital environment of [Papyri.info](https://papyri.info/). 
 It serves as a publishing system specifically designed for the critical edition of papyri.
 Leiden+ was developed to circumvent the complexity of the [TEI/EpiDoc](https://encode-guidelines.github.io/guidelines/epidoc/) XML scheme, facilitating the encoding of papyri 
@@ -18,6 +16,7 @@ for non-specialists and a broad participation to the encoding effort from the pa
 routine, the system has the capability to seamlessly convert Leiden+ into XML and vice versa, enabling automated and bi-directional 
 transformation between the two markup formats. The final presentation of texts occurs through the Papyrological Navigator interface, 
 where the XML source code is transformed into HTML pages using XSLT style sheets. 
+
 ## Documentation
 The [Leiden+ Documentation](https://papyri.info/docs/leiden_plus) is a comprehensive resource that provides detailed guidelines and instructions 
 for using the Leiden+ markup language in papyrus encoding on Papyri.info. 

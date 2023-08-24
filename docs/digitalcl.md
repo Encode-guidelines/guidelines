@@ -9,8 +9,6 @@ toc_title: Digital Classicist
 hero_height: is-small
 ---
 
-**3.4.1. Guidelines Digital Classicist**
-
 The [<u>Digital Classicist</u>](https://www.digitalclassicist.org/) is
 an international community of scholars interested in the application of
 innovative digital methods and technologies to research on the heritage
@@ -76,7 +74,7 @@ edit the wiki. The quality of the content is monitored by the board and
 changes to the pages are visible to all by clicking on the ‘View
 History’ link at the right top of each page.
 
-**Resources**:
+## Resources
 
 The Digital Classicist website:
 [<u>https://www.digitalclassicist.org/</u>](https://www.digitalclassicist.org/)
@@ -93,14 +91,14 @@ The Stoa: A Review for Digital Classics:
 The Digital Classicist Wiki:
 [<u>https://wiki.digitalclassicist.org/Main\_Page</u>](https://wiki.digitalclassicist.org/Main_Page)
 
-**Video:**
+## Videos
 
 SunoikisisDC Digital Classics, Autumn 2022. Session 3: *Using and
 Editing the Digital Classicist Wiki* (Gabriel Bodard, Rosa Lorito,
 Paolo Monella):
 [<u>https://youtu.be/BIe1DUburi8</u>](https://youtu.be/BIe1DUburi8)
 
-**Bibliography**:
+## Bibliography
 
 Mahony, Simon. "Research Communities and Open Collaboration:
 The Example of the Digital Classicist Wiki". *Digital Medievalist* 6 (2011).

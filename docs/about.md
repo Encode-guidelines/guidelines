@@ -23,19 +23,19 @@ and best practices and guidelines they can follow.
 After an [introductory section](/introduction), which contains a description of the [ENCODE database](/database) 
 and its [pedagogical frame](/competences), resources have been divided in the following sections:
 
-### Corpus and database creation
-Resources are listed which are useful to create, work with, store, publish and disseminate databases 
+-  Corpus and database creation:  
+resources are listed which are useful to create, work with, store, publish and disseminate databases 
 (with particular regard for the creation of textual corpora of ancient languages).
 
-### Best practices
+- Best practices:  
 Links to guidelines, user manuals and best practices summaries.
 
-### Courses
+- Courses:  
 Resources offering open access lessons and courses about relevant themes.
 
-### Portals and mailing lists
+- Portals and mailing lists
 
-### Bibliographies
+- Bibliographies
 
-### Terminology
+- Terminology:  
 A list of relevant terms and concepts (either present in the ENCODE Mooc or relevant in general), with short and simple definitions.

@@ -44,11 +44,13 @@
     - name: "2.4 Portals & Mailing lists"
       link: /port_mail/
       items:
-       - name: "2.4.1 Digital Classicist"
+       - name: "2.4.1 Mnamon"
+         link: /mnamon/
+       - name: "2.4.2 Digital Classicist"
          link: /digitalcl/
-       - name: "2.4.2 PAPY-list"
+       - name: "2.4.3 PAPY-list"
          link: /papylist/
-       - name: "2.4.3 Other mailing lists"
+       - name: "2.4.4 Other mailing lists"
          link: /mailing_lists/
     - name: "2.5 Bibliographies"
       link: /biblio/
