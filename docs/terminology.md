@@ -51,6 +51,8 @@ hero_height: is-small
 
 **URL**: URL is an acronym for Uniform Resource Locator. It is a reference or address used to locate resources such as web pages, files, or other online content. It typically consists of a protocol identifier (_e.g._, http or https), a domain name, and a specific path to the resource.
 
+**Written Artefacts**: «As for written artefacts we take the broad working definition of any artificial or natural object that have written or pictorial (visual) signs. This definition includes the traditional notion of manuscript, in all attested book forms, and inscription, and at the same time goes well beyond these broad categories» (Cluster Cluster of Excellence ‘Understanding Written Artefacts’ Universität Hamburg). 
+
 **XML**: XML is an acronym for eXtensible Markup Language. XML is a markup that allows the structured encoding of text or data in human- and machine-readable format.
 
 **XML Database**: XML Database is a way to store data in a document-oriented approach since the information regarding a given document is entered and stored in a single file encoded in the XML markup language.
