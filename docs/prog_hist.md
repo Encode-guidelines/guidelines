@@ -9,7 +9,9 @@ toc_title: Programming Historian
 hero_height: is-small
 ---
 
-*Programming Historian* was founded in 2008 by William J. Turkel and
+## About
+
+[Programming Historian](https://programminghistorian.org/) was founded in 2008 by William J. Turkel and
 Alan MacEachern. Turkel published [a blog
 post](http://digitalhistoryhacks.blogspot.com/2008/01/programming-historian.html) at
 the time, setting out their intentions for the project. Initially it
@@ -32,9 +34,12 @@ português*](https://programminghistorian.org/pt) in early 2021.
 Since the beginning, the aim of the project has been to teach the usage
 of such technologies to classicists, unfamiliar to programming
 languages. Programming Historian offers introductory lessons on
-different programs or programming languages such as Python, R, MySQL,
-SPARQL and others, among them Jupyter Notebooks, GitHub pages,
-OpenRefine and many others.
+different programs or programming languages such as [Python](https://programminghistorian.org/en/lessons/?search=python), 
+[R](https://programminghistorian.org/en/lessons/?search=R+), [MySQL](https://programminghistorian.org/en/lessons/?search=MySQL),
+[SPARQL](https://programminghistorian.org/en/lessons/?search=sparql) and others,
+among them [Jupyter Notebooks](https://programminghistorian.org/en/lessons/?search=jupyter+), 
+[GitHub pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), 
+[OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine) and many others.
 
 All tutorials at *Programming Historian* are peer reviewed, guided
 through the review process by one of the editors. The review involves a
@@ -68,44 +73,45 @@ are permitted to republish their tutorials anywhere, as can anyone, as
 long as they cite the original author and respect his or her moral
 rights.
 
-### Structure
+## Structure
 
 By accessing the [main page](https://programminghistorian.org/), it is,
 first of all, possible to select the language among the four possible
-ones (English, Spanish, French, Portuguese).
+ones ([English](https://programminghistorian.org/en/), [Spanish](https://programminghistorian.org/es/), 
+[French](https://programminghistorian.org/fr/), [Portuguese](https://programminghistorian.org/pt/)).
 
 From this page, it is also possible to have access to the six different
-sections of the site, named as follows:
+sections of the site:
 
--"[About](https://programminghistorian.org/en/about)", cointaining
+[About](https://programminghistorian.org/en/about): cointains
 information related to the history of the project and its policies.
 
--"[Contribute](https://programminghistorian.org/en/contribute)", giving
+[Contribute](https://programminghistorian.org/en/contribute): gives
 access to a drop-down menu from which anyone can access the guidelines
 to review, write, translate or edit e lesson: everyone can contribute to
 PH by writing a new lesson, editing or translating an existing lesson or
 by providing feedback and making suggestions.
 
--"[Lessons](https://programminghistorian.org/en/lessons/)", the core of
+[Lessons](https://programminghistorian.org/en/lessons/): the core of
 *Programming Historian*: this section gives access to a searchable
 "Lesson Index"; the lessons are organized by general topics, but buttons
 can also be used to filter by category.
 
--"[Events](https://programminghistorian.org/en/events)", displaying the
+[Events](https://programminghistorian.org/en/events): displays the
 program of upcoming and past events (some are available online through a
 YouTube link): in 2022, the PH team launched a program of in-house,
 multilingual events to support educators, learners and project partners.
 
--"[Support Us](https://programminghistorian.org/en/ipp)", illustrating
+[Support Us](https://programminghistorian.org/en/ipp): illustrates
 the institutional or individual supporters of the project and how to
 become a partner.
 
--"[Blog](https://programminghistorian.org/blog/)": The Programming
+[Blog](https://programminghistorian.org/blog/): The Programming
 Historian Blog is a space to share news about the project, ideas for how
 someone might use technology in his own works and examples of the PH
 applied in real life.
 
-The Programming Historians has won multiple awards which recognize and
+Programming Historian has won multiple awards which recognize and
 celebrate its achievements in the spheres of open access publishing and
 digital scholarship.
 
