@@ -9,10 +9,6 @@ toc_title: Programming Historian
 hero_height: is-small
 ---
 
-# PROGRAMMING HISTORIAN
-
-## ABOUT PH
-
 *Programming Historian* was founded in 2008 by William J. Turkel and
 Alan MacEachern. Turkel published [a blog
 post](http://digitalhistoryhacks.blogspot.com/2008/01/programming-historian.html) at
@@ -21,7 +17,7 @@ focused on the Python programming language and was published in open
 access.
 
 In 2012, *Programming Historian* expanded its editorial team and
-launched as an open access peer reviewed scholarly journal of
+was launched as an open access peer reviewed scholarly journal of
 methodology for digital historians. In 2016, a Spanish Language
 publication was added to the initial English-language publication and in
 2017 translated lessons started being publishing under the
@@ -34,7 +30,7 @@ year later, a Portuguese-speaking team was also created, launching
 português*](https://programminghistorian.org/pt) in early 2021.
 
 Since the beginning, the aim of the project has been to teach the usage
-of such technologies to the classicists, unfamiliar to programming
+of such technologies to classicists, unfamiliar to programming
 languages. Programming Historian offers introductory lessons on
 different programs or programming languages such as Python, R, MySQL,
 SPARQL and others, among them Jupyter Notebooks, GitHub pages,
@@ -72,7 +68,7 @@ are permitted to republish their tutorials anywhere, as can anyone, as
 long as they cite the original author and respect his or her moral
 rights.
 
-## PH STRUCTURE
+### Structure
 
 By accessing the [main page](https://programminghistorian.org/), it is,
 first of all, possible to select the language among the four possible
