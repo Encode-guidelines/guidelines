@@ -8,6 +8,7 @@ menubar: menu
 toc_title: The Carpentries
 hero_height: is-small
 ---
+## About
 
 [The Carpentries](https://carpentries.org) is a non-profit project with the aim of building global capacity in essential data and 
 computational skills for people conducting and supporting research, so that research can be efficient, open, and reproducible. It is 

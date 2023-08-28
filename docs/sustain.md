@@ -40,6 +40,6 @@ The following points may help in looking at different sustainability perspective
 •	Keep the system continuously updated
 •	Is it possible and easy to update the content of your service?
 
-## Bibliography:
+## Bibliography
 
 universaldesign. (n.d.). The 7 Principles | Centre for Excellence in Universal Design. Retrieved July 2, 2023, from [https://universaldesign.ie/what-is-universal-design/the-7-principles/]{.underline}](https://universaldesign.ie/what-is-universal-design/the-7-principles/));

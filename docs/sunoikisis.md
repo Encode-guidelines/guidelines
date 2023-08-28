@@ -8,12 +8,13 @@ menubar: menu
 toc_title: SunoikisisDC
 hero_height: is-small
 ---
+## About
 
 Sunoikisis Digital Classics was created in 2015 as an international
-consortium developed by the Alexander von Humboldt Chair of Digital
-Humanities at the University of Leipzig in collaboration with the
-Harvard Center for Hellenic Studies, later joined by the Institute of
-Classical Studies in London.
+consortium developed by the [Alexander von Humboldt Chair of Digital
+Humanities at the University of Leipzig](https://www.mathcs.uni-leipzig.de/en/ifi/research/computational-humanities#c685628)
+in collaboration with the [Harvard Center for Hellenic Studies](https://chs.harvard.edu/), 
+later joined by the [Institute of Classical Studies in London](https://ics.sas.ac.uk/).
 
 Since the beginning, the aim of the programme has been to teach digital
 humanities and technologies for the study and learning of ancient
@@ -21,8 +22,8 @@ languages and addresses especially students of Computer Science and
 Humanities from different backgrounds.
 
 In recent years, the consortium has expanded to now include instructors
-and students from over 90 institutions, thanks to the open technologies
-it uses to stream lectures and share material. The courses are in fact
+and students from [over 90 institutions](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh&ll=36.542061625690316%2C-44.19440307687671&z=2), 
+thanks to the open technologies it uses to stream lectures and share material. The courses are in fact
 online and open to students from all over the world. Students from the
 University of Leipzig and other partner institutions can be assessed and
 receive credit, but every teacher can integrate the courses into their
@@ -32,19 +33,18 @@ interests and expertise to teach online courses in weekly sessions and
 offers a class outline with course descriptions, bibliography,
 exercises, other resources and a YouTube link to the class.
 
-SunokisisDC has a [<u>GitHub</u>](https://sunoikisisdc.github.io/) page
-that collects syllabi and course materials from 2015 up to the most
-recent ones, a SunoikisisDC [<u>YouTube
-channel</u>](https://www.youtube.com/@sunoikisisdc2110) that provides
+SunokisisDC has a [GitHub page](https://sunoikisisdc.github.io/) that collects 
+syllabi and course materials from 2015 up to the most
+recent ones, a SunoikisisDC [YouTube channel](https://www.youtube.com/@sunoikisisdc2110) that provides
 streaming and contains video recordings of the courses, a
-[<u>SunoikisisDC Zotero Group
-Library</u>](https://www.zotero.org/groups/4303839/sunoikisisdc), which
-collects the bibliographic and digital resources from the SunoikisisDC
+[SunoikisisDC Zotero Group
+Library](https://www.zotero.org/groups/4303839/sunoikisisdc), which
+collects the bibliographic and digital resources from all the SunoikisisDC
 sessions (and
-[<u>Guidelines</u>](https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw)
+[Guidelines](https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw)
 for future editors of the SunoikisisDC Zotero Group Library), and a
-[<u>Google
-Spreadsheet</u>](https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6_AmLzmqDZFPhEHzJcAGQB8/edit),
+[Google
+Spreadsheet](https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6_AmLzmqDZFPhEHzJcAGQB8/edit),
 which collects all the sessions of the programme since its beginning and
 allows the search for specific sessions, topics and convenors.
 
@@ -64,23 +64,23 @@ convenors and the audience, who can interact via a real-time chat.
 ## Resources
 
 SunoikisisDC main website:
-[<u>https://sunoikisisdc.github.io/</u>](https://sunoikisisdc.github.io/)
+[https://sunoikisisdc.github.io/](https://sunoikisisdc.github.io/)
 
 SunoikisisDC Zotero Group Library:
-[<u>https://www.zotero.org/groups/4303839/sunoikisisdc</u>](https://www.zotero.org/groups/4303839/sunoikisisdc)
+[https://www.zotero.org/groups/4303839/sunoikisisdc](https://www.zotero.org/groups/4303839/sunoikisisdc)
 
 Guidelines for future editors of the SunoikisisDC Zotero Group Library:
-[<u>https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw</u>](https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw)
+[https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw](https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit#heading=h.pvj7mzjykpfw)
 
-Google Spreadsheet of the SunoikisisDC Sessions:
-[<u>https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6\_AmLzmqDZFPhEHzJcAGQB8/edit</u>](https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6_AmLzmqDZFPhEHzJcAGQB8/edit)
+Google Spreadsheet of all the SunoikisisDC Sessions:
+[https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6\_AmLzmqDZFPhEHzJcAGQB8/edit](https://docs.google.com/spreadsheets/d/1VAYHnhMEFfR0npgrYDjm6_AmLzmqDZFPhEHzJcAGQB8/edit)
 
 SunoikisisDC YouTube channel:
-[<u>https://www.youtube.com/@sunoikisisdc2110</u>](https://www.youtube.com/@sunoikisisdc2110)
+[https://www.youtube.com/@sunoikisisdc2110](https://www.youtube.com/@sunoikisisdc2110)
 
 ## Bibliography
 
 Berti, Monica. *Sunoikisis DC - An International Consortium of
 Digital Classics Programmes*, Digital Classicist London seminar (July
 10, 2015). Available at:
-[<u>https://www.youtube.com/watch?v=zpBR0bb8gxk</u>](https://www.youtube.com/watch?v=zpBR0bb8gxk)
+[https://www.youtube.com/watch?v=zpBR0bb8gxk](https://www.youtube.com/watch?v=zpBR0bb8gxk)
