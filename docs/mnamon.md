@@ -9,6 +9,6 @@ toc_title: Mnamon
 hero_height: is-small
 ---
 
+[Mnamon](https://mnamon.sns.it/index.php?page=Home&lang=en
+) is a critical guide to electronic resources for the ancient writing systems in the Mediterranean.
 
-
-https://mnamon.sns.it/index.php?page=Home&lang=en
