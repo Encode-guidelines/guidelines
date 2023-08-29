@@ -1,3 +1,14 @@
+---
+layout: page
+title: EAGLE
+permalink: /eagle/
+show_sidebar: false
+menubar: menu
+toc: true
+toc_title: EAGLE
+hero_height: is-small
+---
+
 EAGLE
 
 EAGLE (acronym for Europeana network of Ancient Greek and Latin Epigraphy) is an international three-year (2013-2016) project funded by the European Commission under its Information and Communication Technologies Policy Support Programme and part of Europeana, a multi-lingual online collection of millions of digitised items from European museums, libraries, archives and multi-media collections. The project is the natural consequence of a network born in 2003 as a federation of four epigraphic databases that had agreed to make their separate collections accessible through a common online interface. EAGLE’s aim is indeed to provide a user-friendly portal to collect the inscriptions of the Ancient World from aggregated databases participating in the Project (for which, see Collections) offering a single search mask (Inscriptions Search Engine), which allows full-text searches or more advanced queries, including the possibility to upload an image and search for inscriptions. Texts are encoded in EpiDoc-XML and often accompanied by translations available on the EAGLE MediaWiki (open for contributions). 
