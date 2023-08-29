@@ -48,20 +48,26 @@ efficiency of the EAGLE portal and initiatives in the field of the digital treat
 
 ## Resources
 
-EAGLE: https://www.eagle-network.eu/ 
-EAGLE major components:
-EAGLE Search Engine: https://www.eagle-network.eu/resources/search-inscriptions/ 
-EAGLE Vocabularies: https://www.eagle-network.eu/resources/vocabularies/ 
-EAGLE Virtual Exhibition: https://www.eagle-network.eu/virtual-exhibition/ 
-EAGLE Mobile Application: https://www.eagle-network.eu/resources/flagship-mobile-app/ 
-EAGLE Storytelling Application: https://www.eagle-network.eu/resources/flagship-storytelling-app/ 
-EAGLE Media Wiki: https://wiki.eagle-network.eu/wiki/index.php/Main_Page 
-EAGLE Zotero Bibliography: https://www.zotero.org/eaglebpn/library 
-IDEA Association: https://www.eagle-network.eu/about/who-we-are/ 
+EAGLE: https://www.eagle-network.eu/  
+
+EAGLE major components:  
+- EAGLE Search Engine: https://www.eagle-network.eu/resources/search-inscriptions/ 
+- EAGLE Vocabularies: https://www.eagle-network.eu/resources/vocabularies/ 
+- EAGLE Virtual Exhibition: https://www.eagle-network.eu/virtual-exhibition/ 
+- EAGLE Mobile Application: https://www.eagle-network.eu/resources/flagship-mobile-app/ 
+- EAGLE Storytelling Application: https://www.eagle-network.eu/resources/flagship-storytelling-app/ 
+- EAGLE Media Wiki: https://wiki.eagle-network.eu/wiki/index.php/Main_Page
+- EAGLE Zotero Bibliography: https://www.zotero.org/eaglebpn/library 
+- IDEA Association: https://www.eagle-network.eu/about/who-we-are/ 
 
 ## Bibliography
 
 Liuzzo, Pietro. “EAGLE continued: IDEA. The International Digital Epigraphy Association”. In Crossing Experiences in Digital Epigraphy. From Practice to Discipline, edited by Annamaria De Santis and Irene Rossi, 216-230. Warsaw – Berlin, De Gruyter 2018. DOI: 10.1515/9783110607208-018 
-Liuzzo, Pietro, Franco Zoppi, Antonio Enrico Felle, and Giuseppe Amato. 2019. “IDEA e la conservazione dei dati epigrafici di EAGLE”. Umanistica Digitale 3 (7) (2019): 105-110. https://doi.org/10.6092/issn.2532-8816/8704 
-Orlandi, Silvia. “Ancient Inscriptions between Citizens and Scholars: The Double Soul of the EAGLE Project”. In Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement, edited by Gabriel Bodard and Matteo Romanello, 205-221. London: Ubiquity Press 2016. DOI: http://dx.doi.org/10.5334/bat.l
+ 
+Liuzzo, Pietro, Franco Zoppi, Antonio Enrico Felle, and Giuseppe Amato. 2019. “IDEA e la conservazione dei dati epigrafici di EAGLE”. Umanistica Digitale 3 (7) (2019): 105-110. https://doi.org/10.6092/issn.2532-8816/8704   
+
+Orlandi, Silvia. “Ancient Inscriptions between Citizens and Scholars: The Double Soul of the EAGLE Project”. In Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement, edited by Gabriel Bodard and Matteo Romanello, 205-221. 
+
+London: Ubiquity Press 2016. DOI: http://dx.doi.org/10.5334/bat.l  
+
 Orlandi, Silvia. “Europeana network of Ancient Greek and Latin Epigraphy e le sue molteplici sfide”. In Strumenti digitali e collaborativi per le Scienze dell’Antichità, edited by Paolo Mastandrea, 49-60. Venezia: Edizioni Ca’ Foscari - Digital Publishing 2017. DOI: http://doi.org/10.14277/6969-182-9/ANT-14-4
