@@ -9,11 +9,15 @@ toc_title: Terminology
 hero_height: is-small
 ---
 
-**3D Modelling/3D Imaging**: 3D modelling is the production of a 3D reconstruction of a lost, damaged or conjectured object or structure via specialized software. The difference with 3D imaging is that this one technologically captures an existing object via scanning, photographing, or otherwise accurately capturing the surface, geometry or volume of the original object.
+**3D Modelling/3D Imaging**: 3D modelling is the production of a 3D reconstruction of a lost, damaged or conjectured object or structure via specialized software. The difference with 3D imaging
+ is that this one technologically captures an existing object via scanning, photographing, or otherwise accurately capturing the surface, geometry or volume of the original object.
 
-**Authority list**: an authority list is a controlled vocabulary you can create if you want to save repeatable information, enforcing consistency within your corpus/database. You may want to generate authority lists about persons, places, institutions, and so on within your corpus/database or to refer to external authority lists (such as Pleiades, LGPN, EAGLE Vocabularies…).
+**Authority list**: an authority list is a controlled vocabulary you can create if you want to save repeatable information, enforcing consistency within your corpus/database.
+ You may want to generate authority lists about persons, places, institutions, and so on within your corpus/database or to refer to external authority lists
+  (such as Pleiades, LGPN, EAGLE Vocabularies…).
 
-**Command line**:
+**Command line**: or command-line interface (CLI) is is a means of interacting with a device or computer program with commands from a user or client, and responses 
+from the device or program, in the form of lines of text
 
 **CURL**:
 
@@ -25,15 +29,19 @@ is a computer software project providing a library (libcurl) and command-line to
 
 **DOI Digital Object Identifier**:
 
-**EpiDoc**: EpiDoc is the leading standard for the digital encoding of ancient sources (mainly inscriptions, papyri and other primary and documentary texts). EpiDoc is a subset of TEI and a customization of it narrowed to specific documents through which you can highlight specific textual features and index them semi-automatically or automatically.
+**EpiDoc**: EpiDoc is the leading standard for the digital encoding of ancient sources (mainly inscriptions, papyri and other primary and documentary texts). EpiDoc is a subset of TEI and a
+ customization of it narrowed to specific documents through which you can highlight specific textual features and index them semi-automatically or automatically.
 
-**FAIR**: FAIR is a set of principles published in 2016 in Scientific Data, which recommends the behaviour to which we are expected to conform when publishing data online. It is an acronym for Findability, Accessibility, Interoperability, Reuse.
+**FAIR**: FAIR is a set of principles published in 2016 in Scientific Data, which recommends the behaviour to which we are expected to conform when publishing data online. It is an acronym for 
+Findability, Accessibility, Interoperability, Reuse.
 
 **Fork**:
 
-**GIS**: GIS is the acronym of Geographic Information System, a system designed to capture, store, manipulate, analyze, manage, and visualize spatial or geographic data, enabling queries, data analysis and their representation in maps.
+**GIS**: GIS is the acronym of Geographic Information System, a system designed to capture, store, manipulate, analyze, manage, and visualize spatial or geographic data, enabling queries,
+ data analysis and their representation in maps.
 
-*GUI*:  a Graphic User Interface is an infrastructure (typically a desktop application or a website) that allows users to interact (search and query) a database in a way that is relatively intuitive and to this end makes use of graphical elements such as buttons, icons, images, graphs, etc. (hence “graphical”).
+*GUI*:  a Graphic User Interface is an infrastructure (typically a desktop application or a website) that allows users to interact (search and query) a database in a way that 
+is relatively intuitive and to this end makes use of graphical elements such as buttons, icons, images, graphs, etc. (hence “graphical”).
 
 **Interface**:
 
