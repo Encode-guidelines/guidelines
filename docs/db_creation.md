@@ -15,13 +15,15 @@ The first decision in the creation of a database is that of the database managem
 depending on the characteristics of the data and the planned application of the database: 
 
 ### 1. Relational databases:
-Relational databases, such as SQL databases provide high data consistency, standardization and low redundancy. However, the tabular schema does not apply well to all data (e.g. texts) 
+Relational databases, such as SQL databases provide high data consistency, standardization and low redundancy.
+However, the tabular schema does not apply well to all data (e.g. texts with mark-up) 
 and structures (e.g. hierarchical). [trismegistos.org](trismegistos.org) is based on a relational database. 
 For further reading see Section [3.1.2 Relational databases](https://teach-dariah-cur.acdh-dev.oeaw.ac.at/mod/lesson/view.php?id=2503&pageid=2528) of the ENCODE online course. 
 
-### 2. document-oriented databases:
+### 2. Document-oriented databases:
 In the field of papyrology and epigraphy, XML databases are the most widely used document-oriented databases. 
-The advantage is flexibility and horizontal scalability. An example is the data underlying [papyri.info](www.papyri.info). For further reading see Section [3.1.3 XML-databases](https://teach-dariah-cur.acdh-dev.oeaw.ac.at/mod/lesson/view.php?id=2503&pageid=2530) 
+The advantages are flexibility (e.g. there is no need to define a schema upfront) and requires less transformations of the format of the data.
+ An example is the data underlying [papyri.info](www.papyri.info). For further reading see Section [3.1.3 XML-databases](https://teach-dariah-cur.acdh-dev.oeaw.ac.at/mod/lesson/view.php?id=2503&pageid=2530) 
 of the ENCODE online course.
 
 ### 3. Graph databases:
