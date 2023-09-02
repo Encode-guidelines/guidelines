@@ -17,7 +17,13 @@ hero_height: is-small
 
 **CURL**:
 
+**CRUD (Create, Read, Update, and Delete)**
+
+is a computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for "Client for URL".[8]
+
 **Digital vs. digitized editions**:
+
+**DOI Digital Object Identifier**:
 
 **EpiDoc**: EpiDoc is the leading standard for the digital encoding of ancient sources (mainly inscriptions, papyri and other primary and documentary texts). EpiDoc is a subset of TEI and a customization of it narrowed to specific documents through which you can highlight specific textual features and index them semi-automatically or automatically.
 
@@ -50,6 +56,8 @@ hero_height: is-small
 **URI**:
 
 **URL**: URL is an acronym for Uniform Resource Locator. It is a reference or address used to locate resources such as web pages, files, or other online content. It typically consists of a protocol identifier (_e.g._, http or https), a domain name, and a specific path to the resource.
+
+**Versioning**:
 
 **Written Artefacts**: «As for written artefacts we take the broad working definition of any artificial or natural object that have written or pictorial (visual) signs. This definition includes the traditional notion of manuscript, in all attested book forms, and inscription, and at the same time goes well beyond these broad categories» (Cluster of Excellence ‘Understanding Written Artefacts’ Universität Hamburg). 
 
