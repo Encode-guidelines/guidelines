@@ -33,6 +33,8 @@ is a computer software project providing a library (libcurl) and command-line to
 
 **GIS**: GIS is the acronym of Geographic Information System, a system designed to capture, store, manipulate, analyze, manage, and visualize spatial or geographic data, enabling queries, data analysis and their representation in maps.
 
+*GUI*:  a Graphic User Interface is an infrastructure (typically a desktop application or a website) that allows users to interact (search and query) a database in a way that is relatively intuitive and to this end makes use of graphical elements such as buttons, icons, images, graphs, etc. (hence “graphical”).
+
 **Interface**:
 
 **LOD**: LOD, an acronym for Linked Open Data, is structured data which is interlinked with other data and is the basis of the Semantic Web, as conceived by Tim Berners-Lee, who coined the term in a 2006.
