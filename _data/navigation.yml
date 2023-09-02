@@ -23,13 +23,11 @@
    dropdown:       
      - name: "2.2.1 EpiDoc"
        link: /epidoc/
-     - name: "2.2.2 Papyri.info"
-       link: /papyri_info/
-     - name: "2.2.3 CIPEM"
-       link: /myc/
-     - name: "2.2.5 Leiden+"
+     - name: "2.2.2 Leiden+"
        link: /leiden+/
-     - name: "2.2.5 Sustainability"
+     - name: "2.2.3 Papyri.info"
+       link: /papyri_info/
+     - name: "2.2.4 Sustainability"
        link: /sustain/
  - name: "Courses"
    link: /soft_carp/
@@ -43,13 +41,13 @@
  - name: "Portals/@-lists"
    link: /digitalcl/
    dropdown:
-     - name: "2.4.2 Digital Classicist"
+     - name: "2.4.1 Digital Classicist"
        link: /digitalcl/
-     - name: "2.4.3 EAGLE"
+     - name: "2.4.2 EAGLE"
        link: /eagle/
-     - name: "2.4.1 Mnamon"
+     - name: "2.4.3 Mnamon"
        link: /mnamon/
-     - name: "2.4.3 PAPY-list"
+     - name: "2.4.4 PAPY-list"
        link: /papylist/
      - name: "2.4.5 Other mailing lists"
        link: /mailing_lists/
