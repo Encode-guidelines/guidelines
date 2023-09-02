@@ -10,10 +10,13 @@ hero_height: is-small
 ---
 ## About
 
+
 [The Carpentries](https://carpentries.org) is a non-profit project with the aim of building global capacity in essential data and 
 computational skills for people conducting and supporting research, so that research can be efficient, open, and reproducible. It is 
 an open and inclusive community of learners and instructors "that promotes and models the importance of software and data in research". 
-
+ 
+  <img src="/guidelines/images/carpentries.svg" style="float:right; width:400px; height:200px;">
+  
 The project is founded mainly through grants and the support of [its member organizations](https://carpentries.org/members/), 
 the majority of which is constituted by universities.
 

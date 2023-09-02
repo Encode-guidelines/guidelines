@@ -11,14 +11,14 @@ hero_height: is-small
 
 ## EpiDoc Guidelines
 
- <img src="/guidelines/images/epidoc.jpg" style="float:right; width:400px; height:200px;">
-
 The [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/) are a
 tool produced by the EpiDoc Community that suggests recommendations for
 encoding scholarly and educational editions of ancient documents. They
 contain accurate descriptions of the textual, descriptive, and other
 features expressed with EpiDoc and the corresponding TEI elements,
 attributes and values used to encode them.
+
+ <img src="/guidelines/images/epidoc.jpg" style="float:right; width:500px; height:200px;">
 
 The Guidelines are the result of a collaborative effort and, as such,
 are constantly implemented: the current version is 9.4. Because of its
