@@ -35,7 +35,7 @@ In addition to national or institutional (e.g. maintained by universities) repos
 
 - [GitHub](https://github.com/):  
 is one of the most used open platforms for software development, where to store, share and manage code. Collaboration is made easy by the [Git](https://git-scm.com/) 
-versioning system.  
+versioning system.
 GitHub is also widely used by the Digital Classics community (e.g. [Sunoikisis DC](https://github.com/SunoikisisDC), 
 [ENCODE](https://github.com/Encode-guidelines), [Epigraphy.info](https://github.com/epigraphy-info)) for storing and sharing documents and datasets.  
 Although owned by Microsoft since 2018 it remained a free and open platform.
