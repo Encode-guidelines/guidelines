@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Database storing, sharing
+title: Database storing & sharing
 permalink: /db_share_store/
 show_sidebar: false
 menubar: menu
