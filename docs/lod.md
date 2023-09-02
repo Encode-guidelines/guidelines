@@ -9,6 +9,8 @@ toc_title: LOD
 hero_height: is-small
 ---
 
+## LOD Guidelines
+
 Linked Open Data (LOD) for the Semantic Web should follow these four general guidelines (proposed by Tim Berners-Lee):
 
 ### 1. Use URIs as names for things.

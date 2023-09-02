@@ -1,4 +1,5 @@
  - name: "Intro"
+   link: /introduction/
    dropdown:
     - name: "1.1 The ENCODE Guidelines"
       link: /introduction/
@@ -7,6 +8,7 @@
     - name: "1.3 Competences"
       link: /competences/
  - name: "Building a corpus"
+   link: /db_creation/
    dropdown:
      - name: "2.1.1 Creation"
        link: /db_creation/
@@ -30,6 +32,7 @@
      - name: "2.2.5 Sustainability"
        link: /sustain/
  - name: "Courses"
+   link: /soft_carp/
    dropdown:       
      - name: "2.3.1 The Carpentries"
        link: /soft_carp/
@@ -38,17 +41,16 @@
      - name: "2.3.3 Sunoikisis DC" 
        link: /sunoikisis/
  - name: "Portals/@-lists"
+   link: /digitalcl/
    dropdown:
-     - name: "2.4 Portals & Mailing lists"
-       link: /port_mail/
-     - name: "2.4.1 Mnamon"
-       link: /mnamon/
      - name: "2.4.2 Digital Classicist"
        link: /digitalcl/
-     - name: "2.4.3 PAPY-list"
-       link: /papylist/
      - name: "2.4.3 EAGLE"
        link: /eagle/
+     - name: "2.4.1 Mnamon"
+       link: /mnamon/
+     - name: "2.4.3 PAPY-list"
+       link: /papylist/
      - name: "2.4.5 Other mailing lists"
        link: /mailing_lists/
  - name: "Bibliographies"

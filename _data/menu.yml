@@ -1,4 +1,4 @@
-- label: 1 Introduction
+- label: "1: Introduction"
   items:
     - name: "1.1 The ENCODE Guidelines"
       link: /introduction/
@@ -9,7 +9,7 @@
 - label: "2: Teaching Resources"
   items:
     - name: "2.1 Corpus and database creation and publication"
-      link: /corpus_db/
+      link: /db_creation/
       items:
        - name: "2.1.1 Creation"
          link: /db_creation/
@@ -20,7 +20,7 @@
        - name: 2.1.4 LOD
          link: /lod/
     - name: "2.2 Guidelines and best practices"
-      link: /guidelines_bp/
+      link: /epidoc/
       items:
        - name: "2.2.1 EpiDoc"
          link: /epidoc/
@@ -33,7 +33,7 @@
        - name: "2.2.5 Sustainability"
          link: /sustain/
     - name: "2.3 Pedagogical resources for teachers"
-      link: /ped_resources/
+      link: /soft_carp/
       items:
        - name: "2.3.1 The Carpentries"
          link: /soft_carp/
@@ -42,16 +42,16 @@
        - name: "2.3.3 Sunoikisis DC" 
          link: /sunoikisis/
     - name: "2.4 Portals & Mailing lists"
-      link: /port_mail/
+      link: /digitalcl/
       items:
-       - name: "2.4.1 Mnamon"
-         link: /mnamon/
        - name: "2.4.2 Digital Classicist"
          link: /digitalcl/
-       - name: "2.4.3 PAPY-list"
-         link: /papylist/
        - name: "2.4.4 EAGLE"
          link: /eagle/
+       - name: "2.4.1 Mnamon"
+         link: /mnamon/
+       - name: "2.4.3 PAPY-list"
+         link: /papylist/
        - name: "2.4.5 Other mailing lists"
          link: /mailing_lists/
     - name: "2.5 Bibliographies"
