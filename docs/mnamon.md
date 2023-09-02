@@ -13,7 +13,7 @@ hero_height: is-small
 electronic resources selected and critically reviewed by specialists, for the ancient writing systems used in the area around 
 the Mediterranean sea (up to the 6th century CE). 
 
-![Mnamon](/guidelines/images/banner.png)
+![Mnamon](/guidelines/images/mnamon.png)
 
 For each writing system it provides:
 
