@@ -1,7 +1,7 @@
 ---
 hero_height: is-medium
 layout: page
-title: ENCODE Project 
+title: ENCODE Guidelines 
 ---
 
 ## Rationale
