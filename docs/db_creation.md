@@ -34,6 +34,7 @@ the [Encode Training Event on May 26-28, 2021](https://site.unibo.it/encode/en/e
 
 ## Creating a text corpus and database
 A more detailed overview is provided by Section [3.1 Database Infrastructures](https://teach-dariah-cur.acdh-dev.oeaw.ac.at/mod/lesson/view.php?id=2503) of the ENCODE online course.
+
 ### EpiDoc
 The simplest way to create a corpus of papyrological or epigraphic texts is to encode the texts in [EpiDoc](https://epidoc.stoa.org/), 
 a subset of [TEI XML](tei-c.org) developed specifically for ancient documents. In this process, each text is encoded in a separate file; the [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/) 
