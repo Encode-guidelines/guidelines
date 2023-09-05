@@ -28,8 +28,8 @@ acquired, which guarantees a standard structure for the classification
 of the modules themselves: the same reference frameworks were used for
 the competence questionnaires and open badges distributed to
 participants at the end of the workshops organised by the project as
-registered in the descriptions of the [<u>ENCODE Learning Outcomes and
-Competences</u>](https://site.unibo.it/encode/en/training-events)of each training event.
+registered in the descriptions of the [ENCODE Learning Outcomes and
+Competences](https://site.unibo.it/encode/en/training-events)of each training event.
 On the classification of competences and areas of competence acquisition, see [2.2.](docs/competences.md)
 on how we devised the competences.
 
@@ -43,17 +43,17 @@ responsible institutions.
 There are three types of entries:
 
 -   course sessions for which online material is freely available (e.g.
-    [<u>Module 79 Trismegistos workshop on Ancient World
-    texts</u>](https://encode.uni-hamburg.de/modules/m79))
+    [Module 79 Trismegistos workshop on Ancient World
+    texts](https://encode.uni-hamburg.de/modules/m79))
 
 -   courses for which the link points to the programme or syllabus on
-    specific websites (e.g. [<u>Module 46 ENCODE DGLE Workshop
-    2021</u>](https://encode.uni-hamburg.de/modules/m46))
+    specific websites (e.g. [Module 46 ENCODE DGLE Workshop
+    2021](https://encode.uni-hamburg.de/modules/m46))
 
 -   courses that bring together the different sessions for each of which
-    a module has been created (e.g. [<u>Module 78 ENCODE Workshop
+    a module has been created (e.g. [Module 78 ENCODE Workshop
     Multilingual and Multicultural Digital Infrastructures for Ancient
-    Written Artefacts</u>](https://encode.uni-hamburg.de/modules/m78))
+    Written Artefacts](https://encode.uni-hamburg.de/modules/m78))
 
 The individual module pages are structured in different sections, which
 contain basic information such as the title, author and institution
@@ -84,4 +84,4 @@ dell’Antichità* 29, no. 2 (2023), *forthcoming*.
 Elagina, Daria. *Modelling Vocabulary of Digital Competencies
 for the Project ENCODE*, Digital Classicist London 2021 (23th July
 2021):
-[<u>https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s</u>](https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s).
+[https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s](https://www.youtube.com/watch?v=I8cQAkGEJRY&t=124s).

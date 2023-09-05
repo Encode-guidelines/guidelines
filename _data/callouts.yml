@@ -1,0 +1,48 @@
+style: is-light
+height: is-medium
+items:
+  - title: 
+    subtitle:
+    icon: fa-scroll
+    description: >
+     Create, work with,
+     store, publish and disseminate databases for corpora of ancient languages
+    call_to_action_name: Building a corpus
+    call_to_action_link: /db_creation/
+  - title:
+    subtitle:
+    icon: fa-ruler
+    description: > 
+     Find links to guidelines, user manuals and best practices summaries
+      
+    call_to_action_name: Best Practices
+    call_to_action_link: /epidoc/
+  - title:
+    subtitle:
+    icon: fa-school
+    description: >
+     Find resources offering open access lessons and courses about relevant themes
+      
+    call_to_action_name: Courses
+    call_to_action_link: /soft_carp/
+  - title:
+    subtitle:
+    icon: fa-paper-plane
+    description: >
+     Find portals and mailing list useful for teachers, students and researchers working with ancient writing cultures
+    call_to_action_name: Portals & Mailing lists
+    call_to_action_link: /mailing_lists/
+  - title:
+    subtitle:
+    icon: fa-book
+    description: >
+     Sites and databases collecting bibliographical resources about digital methods and tools for the study of ancient writing cultures
+    call_to_action_name: Bibliographies
+    call_to_action_link: /biblio/
+  - title: 
+    subtitle:
+    icon: fa-question
+    description: >
+      Short and simple definitions of terms and concepts frequently used in Digital Classics/Humanities 
+    call_to_action_name: Terminology
+    call_to_action_link: /terminology/

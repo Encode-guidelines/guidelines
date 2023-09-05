@@ -21,22 +21,22 @@ documents.
 
 The result of the consultation is available in two reports published on
 the ENCODE website:
-[<u>https://site.unibo.it/encode/en/outputs</u>](https://site.unibo.it/encode/en/outputs):
+[https://site.unibo.it/encode/en/outputs](https://site.unibo.it/encode/en/outputs):
 the first, by Birgit Breuer, *Report on digital competences, learning
 outcomes and best practices in teaching and learning* has focused mainly
 on the trainer perspective, while the second, by Marta Fogagnolo, *Hands
 on workshops. ENCODE report on digital competences, learning outcomes
 and best practices in teaching and learning* (published as well at: DOI:
-[<u>10.6092/unibo/amsacta/7046</u>](http://doi.org/10.6092/unibo/amsacta/7046))
+[10.6092/unibo/amsacta/7046](http://doi.org/10.6092/unibo/amsacta/7046))
 has focused mostly on the trainee perspective, starting from focus
 groups and surveys with participants to the ENCODE training events.
 
 The shared views resulting from this have informed the design of basic
 and advanced teaching modules and of the
-[<u>database</u>](https://gn.biblhertz.it/encode/index.html) collecting
+[database](https://gn.biblhertz.it/encode/index.html) collecting
 teaching materials and examples of training activities, the reports have
 also been the basis for the design of the
-[<u>MOOC</u>](https://doi.org/10.3390/educsci13010043).
+[MOOC](https://doi.org/10.3390/educsci13010043).
 
 Existing surveys on subject specific and transversal competences as well
 as shared reference points at European level on expected learning
@@ -47,8 +47,8 @@ bridging the gap between very specific and specialistic humanistic
 training and emerging new areas of competence in the Digital Humanities
 and in the field of Artificial Intelligence. While research exists which
 details the necessity or the structure of training in this area
-([<u>Bodard and Stoyanova 2016</u>](http://dx.doi.org/10.5334/bat),
-[<u>Parker et al. 2019</u>](https://doi.org/10.1163/9789004399297_011)),
+([Bodard and Stoyanova 2016](http://dx.doi.org/10.5334/bat),
+[Parker et al. 2019](https://doi.org/10.1163/9789004399297_011)),
 no systematic report exists which crosses several national contexts,
 neither one that includes the point of view of students and employees.
 
@@ -72,17 +72,17 @@ More specifically, we have considered two main Reference Frameworks:
     Reference Framework in Higher Education for History produced
     within the EU Erasmus+ funded project *Measuring and Comparing
     Achievements of Learning Outcomes in Europe* - **CALOHEE**
-    \[[<u>https://www.calohee.eu/</u>](https://www.calohee.eu/)\]
+    \[[https://www.calohee.eu/](https://www.calohee.eu/)\]
 
 2.  Since we want to improve and bridge specialised knowledge with the
     suitable digital competences needed by new profiles of graduates,
     we have taken into account the **DigComp.** *The Digital
     Competence Framework for Citizens* in its 2.1 and 2.2 version.
     URI:
-    [<u>https://publications.jrc.ec.europa.eu/repository/handle/JRC128415</u>](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)
-    DOI: [<u>10.2760/115376
-    (online)</u>](https://dx.doi.org/10.2760/115376),
-    <u>[10.2760/490274 (print)](https://dx.doi.org/10.2760/490274)</u>
+    [https://publications.jrc.ec.europa.eu/repository/handle/JRC128415](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)
+    DOI: [10.2760/115376
+    (online)](https://dx.doi.org/10.2760/115376),
+    [10.2760/490274 (print)](https://dx.doi.org/10.2760/490274)
     connecting it with more specific reflections arising from pilot
     training carried out by the EpiDoc community (the community of
     scholars active in digital edition of Inscriptions and papyri)
@@ -92,8 +92,8 @@ More specifically, we have considered two main Reference Frameworks:
 CALOHEE offers a template and menu as to what can be learned in the
 context of a degree programme in a given subject area (in our case:
 History), so as to provide clarity and guidance for programme design,
-delivery and quality assurance. The <u>Learning Outcomes Reference
-Framework</u> is a set of general descriptors organised on the basis of
+delivery and quality assurance. The Learning Outcomes Reference
+Framework is a set of general descriptors organised on the basis of
 ‘dimensions’. A dimension indicates a constructive key element, which
 defines a subject area. Each subject area is based on a multiple of
 dimensions meant to serve as a sound basis for defining the *programme
@@ -116,7 +116,7 @@ Dimension 6) Communication;
 
 Dimension 7) Professional Development.
 
-The <u>Assessment Reference Framework</u> offers a breakdown of the
+The Assessment Reference Framework offers a breakdown of the
 subject area general descriptors in measurable learning outcomes
 statements, normally each dimension contains from 1 to 4 sub-dimensions.
 
@@ -195,7 +195,7 @@ The Learning outcomes which we used to plan our trainings as well as the
 competences which were required or achieved are listed in the detailed
 documents of the training events:
 
-[<u>https://site.unibo.it/encode/en/training-events</u>](https://site.unibo.it/encode/en/training-events)
+[https://site.unibo.it/encode/en/training-events](https://site.unibo.it/encode/en/training-events)
 and summarised here below in the two appendixes.
 
 
@@ -510,14 +510,14 @@ Level 6.
 
 **CALOHEE** *Measuring and Comparing Achievements of Learning Outcomes
 in Europe* - *Guidelines and Reference Points*
-\[[<u>https://www.calohee.eu/</u>](https://www.calohee.eu/)\]
+\[[https://www.calohee.eu/](https://www.calohee.eu/)\]
 
 **DigComp.** *The Digital Competence Framework for Citizens* 2.2
 version. URI:
-[<u>https://publications.jrc.ec.europa.eu/repository/handle/JRC128415</u>](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)
-DOI: [<u>10.2760/115376
-(online)</u>](https://dx.doi.org/10.2760/115376), <u>[10.2760/490274
-(print)](https://dx.doi.org/10.2760/490274)</u>
+[https://publications.jrc.ec.europa.eu/repository/handle/JRC128415](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)
+DOI: [10.2760/115376
+(online)](https://dx.doi.org/10.2760/115376), [10.2760/490274
+(print)](https://dx.doi.org/10.2760/490274)
 
 ## Bibliography
 
@@ -535,9 +535,9 @@ Salvaterra, Carla, Bencivenni, Alice, Fogagnolo, Marta, Gheldof, Tom and Vagiona
 "ENCODE4OpenU and the Preparation and Delivery of an International
 Collaborative MOOC: A Preliminary Analysis of its Pedagogical and
 Technical Implementation". *Educ. Sci.* 13, no. 1, 43 (2023):
-[<u>https://doi.org/10.3390/educsci13010043</u>](https://doi.org/10.3390/educsci13010043)
+[https://doi.org/10.3390/educsci13010043](https://doi.org/10.3390/educsci13010043)
 
 Wagenaar, Robert. *Tuning-CALOHEE assessment reference
 frameworks for civil engineering, teacher education, history, nursing,
 physics*. International Tuning Academy, 2018:
-[<u>https://repositorio-aberto.up.pt/handle/10216/118864</u>](https://repositorio-aberto.up.pt/handle/10216/118864)
+[https://repositorio-aberto.up.pt/handle/10216/118864](https://repositorio-aberto.up.pt/handle/10216/118864)
