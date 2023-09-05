@@ -7,7 +7,7 @@ menubar: menu
 toc: true
 toc_title: Building a Corpus > Storing & Sharing
 hero_height: is-small
-hero_image: /images/gortyna.jpg
+hero_image: guidelines/images/gortyna.jpg
 ---
 
 ## Storing & Sharing

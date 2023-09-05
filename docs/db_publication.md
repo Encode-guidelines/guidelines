@@ -7,7 +7,7 @@ menubar: menu
 toc: true
 toc_title:  Building a Corpus > Publication
 hero_height: is-small
-hero_image: /images/gortyna.jpg
+hero_image: guidelines/images/gortyna.jpg
 ---
 
 ## Publication through a Graphic User Interfaces
