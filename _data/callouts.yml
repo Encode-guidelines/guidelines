@@ -7,7 +7,7 @@ items:
     description: >
      Create, work with,
      store, publish and disseminate databases for corpora of ancient languages
-    call_to_action_name: Building a corpus
+    call_to_action_name: Building a Corpus
     call_to_action_link: /db_creation/
   - title:
     subtitle:
