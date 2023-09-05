@@ -3,6 +3,7 @@ hero_height: is-small
 layout: page
 title: ENCODE Guidelines
 callouts: callouts 
+hero_image: /images/gortyna.jpg
 ---
 
 ## The ENCODE PROJECT
