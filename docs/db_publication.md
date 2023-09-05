@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Publication
+title: Building a Corpus > Publication
 permalink: /db_publication/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title:  Publication
+toc_title:  Building a Corpus > Publication
 hero_height: is-small
+hero_image: /images/gortyna.jpg
 ---
 
 ## Publication through a Graphic User Interfaces
@@ -81,14 +82,13 @@ Data from a database can also be visualized through already existing, off-the sh
  
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [Datasette](https://datasette.io/)
-- [Omeka]
-[Programming Historian](/prog_hist):
+- [Omeka](https://omeka.org/)  
+   See: [Programming Historian](/prog_hist):
 [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)
 - [Gephi](https://gephi.org/)
 - [NoadGoat](https://nodegoat.net/)
-- [RStudio](https://posit.co/)
-[Programming Historian](/prog_hist):
-[R Basics with Tabular Data](https://programminghistorian.org/en/lessons/r-basics-with-tabular-data) | 
+- [Rtudio](https://posit.co/)  
+  See: [Programming Historian](/prog_hist): [R Basics with Tabular Data](https://programminghistorian.org/en/lessons/r-basics-with-tabular-data)  | 
 [The Carpentries](soft_carp): [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
 
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: LOD
+title: Best Practices > Linked Open Data
 permalink: /lod/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: LOD
+toc_title: Best Practices > Linked Open Data
 hero_height: is-small
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Papyri.info
+title: Best Practices > Papyri.info
 permalink: /papyri_info/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: ENCODE Database
+toc_title: Best Practices > Papyri.info
 hero_height: is-small
 ---
 

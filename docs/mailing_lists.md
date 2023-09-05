@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Other mailing lists
+title: Portals & Mailing lists > Other mailing lists
 permalink: /mailing_lists/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: Other mailing lists
+toc_title:Portals & Mailing lists > Other mailing lists
 hero_height: is-small
 ---
 

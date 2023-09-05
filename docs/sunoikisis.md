@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SunoikisisDC
+title: Courses > SunoikisisDC
 permalink: /sunoikisis/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: SunoikisisDC
+toc_title: Courses > SunoikisisDC
 hero_height: is-small
 ---
 ## About

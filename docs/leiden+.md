@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Leiden+
+title: Best Practices > Leiden+
 permalink: /leiden+/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: Leiden+
+toc_title: Best Practices > Leiden+
 hero_height: is-small
+hero_image: /images/oslo1.jpg
 ---
 ## About
 Leiden+ is a tag-lite markup language that adapts the [Leiden Conventions](https://en.wikipedia.org/wiki/Leiden_Conventions) to the digital environment of [Papyri.info](https://papyri.info/). 

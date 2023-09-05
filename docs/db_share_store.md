@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Database storing & sharing
+title: Building a Corpus > Storing & Sharing
 permalink: /db_share_store/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: Database storing & sharing
+toc_title: Building a Corpus > Storing & Sharing
 hero_height: is-small
+hero_image: /images/gortyna.jpg
 ---
 
 ## Storing & Sharing

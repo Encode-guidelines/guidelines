@@ -1,11 +1,11 @@
 ---
 layout: page
-title: PAPY-list
+title: Portals & Mailing lists > PAPY-list
 permalink: /papylist/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: PAPY-list
+toc_title: Portals & Mailing lists > PAPY-list
 hero_height: is-small
 ---
 

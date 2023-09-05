@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sustainability
+title: Best Practices > Sustainability
 permalink: /sustain/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: ENCODE Database
+toc_title: Best Practices > Sustainability
 hero_height: is-small
 ---
 

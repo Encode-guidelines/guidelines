@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Programming Historian
+title: Courses > Programming Historian
 permalink: /prog_hist/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: Programming Historian
+toc_title: Courses > Programming Historian
 hero_height: is-small
 ---
 

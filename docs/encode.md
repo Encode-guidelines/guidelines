@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The ENCODE Project
+title: Introduction > The ENCODE Project
 permalink: /encode/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: The ENCODE Project
+toc_title: Introduction > The ENCODE Project
 hero_height: is-small
 ---
 

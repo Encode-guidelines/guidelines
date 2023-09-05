@@ -1,11 +1,11 @@
 ---
 layout: page
-title: EpiDOC
+title: Best Practices > EpiDoc
 permalink: /epidoc/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: EpiDoc
+toc_title: Best Practices > EpiDoc
 hero_height: is-small
 ---
 

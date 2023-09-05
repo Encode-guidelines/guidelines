@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The Carpentries
+title: Courses > The Carpentries
 permalink: /soft_carp/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: The Carpentries
+toc_title: Courses > The Carpentries
 hero_height: is-small
 ---
 ## About

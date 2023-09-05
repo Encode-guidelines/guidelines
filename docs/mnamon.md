@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mnamon
+title: Portals & Mailing lists > Mnamon
 permalink: /mnamon/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: Mnamon
+toc_title: Portals & Mailing lists > Mnamon
 hero_height: is-small
 ---
 

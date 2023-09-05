@@ -1,11 +1,11 @@
 ---
 layout: page
-title: EAGLE
+title: Portals & Mailing lists > EAGLE
 permalink: /eagle/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: EAGLE
+toc_title: Portals & Mailing lists > EAGLE
 hero_height: is-small
 ---
 ## About

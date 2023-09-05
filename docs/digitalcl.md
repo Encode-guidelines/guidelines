@@ -1,40 +1,40 @@
 ---
 layout: page
-title: Digital Classicist
+title: Portals & Mailing lists > Digital Classicist
 permalink: /digitalcl/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title: Digital Classicist
+toc_title: Portals & Mailing lists > Digital Classicist
 hero_height: is-small
 ---
 
-The [<u>Digital Classicist</u>](https://www.digitalclassicist.org/) is
+The [Digital Classicist](https://www.digitalclassicist.org/) is
 an international community of scholars interested in the application of
 innovative digital methods and technologies to research on the heritage
 of the ancient and historical worlds. The community was created in 2005
 and the main website is hosted by the King’s College London.
 
 Among the tools offered by the Digital Classicist Community are
-[<u>seminars</u>](https://www.digitalclassicist.org/wip/index.html)
+[seminars](https://www.digitalclassicist.org/wip/index.html)
 about digital tools and projects dealing with the study of the ancient
 world, organised since 2006 and hosted by several institutions
 (Institute for Classical Studies at the University of London, various
 institutions in Berlin, the University of Leipzig and the Tufts
 University in Boston). The results of these seminars have often found
 publication in peer-reviewed volumes and articles, many of them in open
-access. Another tool offered by the community is the [<u>Discussion
-list</u>](https://wiki.digitalclassicist.org/Digital_Classicist_Discussion_List)
+access. Another tool offered by the community is the [Discussion
+list](https://wiki.digitalclassicist.org/Digital_Classicist_Discussion_List)
 (hosted by JISCmail), in which members can discuss different aspects of
 Digital Humanities applied to the study of the ancient world and
 cultural heritage and share news about events, publications and job
 announcements. The Digital Classicist Community has also a blog, the
-[<u>Stoa Review</u>](https://blog.stoa.org/), which publishes after a
+[Stoa Review](https://blog.stoa.org/), which publishes after a
 process of peer-review news, reviews, opinions and discussions of
 classical and digital matters.
 
-The most important tool is the [<u>Digital Classicist
-Wiki</u>](https://wiki.digitalclassicist.org/Main_Page), a catalogue of
+The most important tool is the [Digital Classicist
+Wiki](https://wiki.digitalclassicist.org/Main_Page), a catalogue of
 digital tools, projects and other resources for the study of the ancient
 world. An important section of the wiki is the FAQ section for technical
 questions of interest to classicists and archaeologists. The Wiki is
@@ -77,33 +77,33 @@ History’ link at the right top of each page.
 ## Resources
 
 The Digital Classicist website:
-[<u>https://www.digitalclassicist.org/</u>](https://www.digitalclassicist.org/)
+[https://www.digitalclassicist.org/](https://www.digitalclassicist.org/)
 
 The Digital Classicist Seminars:
-[<u>https://www.digitalclassicist.org/wip/index.html</u>](https://www.digitalclassicist.org/wip/index.html)
+[https://www.digitalclassicist.org/wip/index.html](https://www.digitalclassicist.org/wip/index.html)
 
 The Digital Classicist Discussion List:
-[<u>https://wiki.digitalclassicist.org/Digital\_Classicist\_Discussion\_List</u>](https://wiki.digitalclassicist.org/Digital_Classicist_Discussion_List)
+[https://wiki.digitalclassicist.org/Digital\_Classicist\_Discussion\_List](https://wiki.digitalclassicist.org/Digital_Classicist_Discussion_List)
 
 The Stoa: A Review for Digital Classics:
-[<u>https://blog.stoa.org/</u>](https://blog.stoa.org/)
+[https://blog.stoa.org/](https://blog.stoa.org/)
 
 The Digital Classicist Wiki:
-[<u>https://wiki.digitalclassicist.org/Main\_Page</u>](https://wiki.digitalclassicist.org/Main_Page)
+[https://wiki.digitalclassicist.org/Main\_Page](https://wiki.digitalclassicist.org/Main_Page)
 
 ## Videos
 
 SunoikisisDC Digital Classics, Autumn 2022. Session 3: *Using and
 Editing the Digital Classicist Wiki* (Gabriel Bodard, Rosa Lorito,
 Paolo Monella):
-[<u>https://youtu.be/BIe1DUburi8</u>](https://youtu.be/BIe1DUburi8)
+[https://youtu.be/BIe1DUburi8](https://youtu.be/BIe1DUburi8)
 
 ## Bibliography
 
 Mahony, Simon. "Research Communities and Open Collaboration:
 The Example of the Digital Classicist Wiki". *Digital Medievalist* 6 (2011).
 Available at:
-[<u>http://doi.org/10.16995/dm.26</u>](http://doi.org/10.16995/dm.26)
+[http://doi.org/10.16995/dm.26](http://doi.org/10.16995/dm.26)
 
 Terras, Melissa. "The Digital Classicist: Disciplinary Focus and
 Interdisciplinary Vision". In *Digital Research in

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Building a Corpus - Creation
+title: Building a Corpus > Creation
 permalink: /db_creation/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: Creation
+toc_title: Building a Corpus > Creation
 hero_height: is-small
-hero_image: /images/PYAn657.jpeg
+hero_image: /images/myc2.png
 ---
 # Creating a corpus and database
 

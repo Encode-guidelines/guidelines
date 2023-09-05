@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ENCODE Database
+title: Introduction > The ENCODE competence
 permalink: /competences/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: ENCODE Database
+toc_title: Introduction > The ENCODE competence
 hero_height: is-small
 ---
 
