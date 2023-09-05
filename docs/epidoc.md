@@ -41,7 +41,7 @@ This section points to different pages:
   
 - [How to use the EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/intro-intro.html), an introductory explanation of the guidelines, available
 in various languages;
-- an [Overview of EpiDocstructure](https://epidoc.stoa.org/gl/latest/supp-structure.html),which contains the EpiDoc
+- an [Overview of EpiDoc structure](https://epidoc.stoa.org/gl/latest/supp-structure.html), which contains the EpiDoc
 template and a prose description of the different sections of the template;
 - [EpiDoc homepage on SourceForge](https://sourceforge.net/p/epidoc/wiki/Home/), the main EpiDoc website.
 

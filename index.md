@@ -1,12 +1,14 @@
 ---
 hero_height: is-small
 layout: page
-title: ENCODE Guidelines
+title: ENCODE Guidelines  
 callouts: callouts 
 hero_image: /images/gortyna.jpg
+hero_link: /index/#the
+hero_link_text: of the ENCODE Project
 ---
 
-## The ENCODE PROJECT
+## The ENCODE Project
 
 Digital transformations in the cultural heritage sector have empowered the work of curation, made it easier for people to use cultural heritage for education, research, creation and recreation,
  and contributed to an open and knowledgeable society. Specialized disciplines in the humanities like papyrology, epigraphy, paleography, dealing with ancient written artefacts, embraced 
