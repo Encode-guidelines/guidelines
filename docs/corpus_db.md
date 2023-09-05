@@ -7,6 +7,6 @@ menubar: menu
 toc: true
 toc_title: Corpus and database creation and publication
 hero_height: is-small
-hero_image: guidelines/images/PYAn657.jpg
+hero_image: /guidelines/images/PYAn657.jpg
 ---
 corpus
