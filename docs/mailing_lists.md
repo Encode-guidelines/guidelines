@@ -5,7 +5,7 @@ permalink: /mailing_lists/
 show_sidebar: false
 toc: true
 menubar: menu
-toc_title:Portals & Mailing lists > Other mailing lists
+toc_title: Portals & Mailing lists > Other mailing lists
 hero_height: is-small
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building a Corpus: Creation
+title: Building a Corpus > Creation
 permalink: /creation/
 show_sidebar: false
 menubar: menu
