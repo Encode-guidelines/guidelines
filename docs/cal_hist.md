@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title:  Introduction > Competences > CALOHEE History Reference and Assessment Framework - Level 6.
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 Competences for the training activities designed and delivered in the ENCODE project from CALOHEE History Reference and Assessment Framework - Level 6.

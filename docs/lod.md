@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Best Practices > Linked Open Data
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 ## LOD Guidelines

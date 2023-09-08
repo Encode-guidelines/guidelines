@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Creation
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 # Creating a corpus and database
 ## Database management system (DBMS)

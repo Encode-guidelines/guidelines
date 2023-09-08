@@ -7,6 +7,7 @@ toc: true
 menubar: menu
 toc_title: Portals & Mailing lists > Other mailing lists
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 ### Markup List 

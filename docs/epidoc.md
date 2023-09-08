@@ -7,6 +7,7 @@ toc: true
 menubar: menu
 toc_title: Best Practices > EpiDoc
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 ## About

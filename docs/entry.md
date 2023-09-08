@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title:  Introduction > Competences  > Entry competences for the  ENCODE  training activities
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 

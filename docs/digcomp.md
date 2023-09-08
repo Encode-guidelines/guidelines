@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title:  Introduction > DigComp 2.2 Framework
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 This framework addresses digital transformation and is aimed at

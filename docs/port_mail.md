@@ -7,4 +7,5 @@ menubar: menu
 toc: true
 toc_title: Portals & Mailing list
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---

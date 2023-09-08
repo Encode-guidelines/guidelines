@@ -7,6 +7,7 @@ toc: true
 menubar: menu
 toc_title: Portals & Mailing lists > Digital Classicist
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 The [Digital Classicist](https://www.digitalclassicist.org/) is

@@ -7,4 +7,5 @@ callouts: callouts
 hero_image: /guidelines/images/gortyna.jpg
 hero_link: /encode/
 hero_link_text: Read about the ENCODE Project
+hero_image: /guidelines/images/gortyna.jpg
 ---

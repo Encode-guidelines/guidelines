@@ -7,7 +7,7 @@ menubar: menu
 toc: true
 toc_title: Building a Corpus > Creation
 hero_height: is-small
-hero_image: /guidelines/images/myc2.png
+hero_image: /guidelines/images/gortyna.jpg
 ---
 # Creating a corpus and database
 

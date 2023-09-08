@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Introduction > The ENCODE Database
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 ## Description of the ENCODE Database and the ENCODE teaching modules

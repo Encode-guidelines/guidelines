@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Terminology
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 **3D Modelling/3D Imaging**: 3D modelling is the production of a 3D reconstruction of a lost, damaged or conjectured object or structure via specialized software. The difference with 3D imaging

@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Portals & Mailing lists > EAGLE
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 ## About
 

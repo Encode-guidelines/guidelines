@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title: Portals & Mailing lists > Mnamon
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 [Mnamon - Ancient writing systems in the Mediterranean](https://mnamon.sns.it/index.php?page=Home&lang=en) is a critical guide to 

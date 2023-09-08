@@ -7,6 +7,7 @@ menubar: menu
 toc: true
 toc_title:  Introduction > CALOHEE  Learning Outcomes Reference Framework
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 ## About
 

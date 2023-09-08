@@ -7,6 +7,7 @@ toc: true
 menubar: menu
 toc_title: Bibliographies
 hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
 ---
 
 **EpiDoc Bibliography**:   
