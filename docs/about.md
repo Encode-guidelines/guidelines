@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Introduction > The ENCODE guidelines
+title: Introduction > The ENCODE Guidelines
 permalink: /introduction/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title: Introduction > The ENCODE guidelines
+toc_title: Introduction > The ENCODE Guidelines
 hero_height: is-small
 ---
 
