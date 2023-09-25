@@ -20,7 +20,7 @@ hero_image: /guidelines/images/gortyna.jpg
 **Command line**: or command-line interface (CLI) is is a means of interacting with a device or computer program with commands from a user or client, and responses 
 from the device or program, in the form of lines of text
 
-**CURL**:
+**cURL**: or client URL is a command line tool for file transfer with a URL syntax. It supports a number of protocols including HTTP, HTTPS, FTP, and many more. It is also used for interacting with APIs
 
 **CRUD (Create, Read, Update, and Delete)**
 
@@ -28,7 +28,7 @@ is a computer software project providing a library (libcurl) and command-line to
 
 **Digital vs. digitized editions**:
 
-**DOI Digital Object Identifier**:
+**DOI Digital Object Identifier**: DOI (Digital Object Identifier) is a string of numbers, letters and symbols used to permanently identify an article or document and link to it on the web. A DOI helps a reader to easily locate a document from a citation.
 
 **EpiDoc**: EpiDoc is the leading standard for the digital encoding of ancient sources (mainly inscriptions, papyri and other primary and documentary texts). EpiDoc is a subset of TEI and a
  customization of it narrowed to specific documents through which you can highlight specific textual features and index them semi-automatically or automatically.
@@ -58,13 +58,13 @@ is relatively intuitive and to this end makes use of graphical elements such as 
 
 **Semantic markup**: the semantic markup encodes structural and semantic features of a text. An example of semantic markup is XML. The opposite of semantic markup is renditional markup, which describes the structural and graphic features of a text.
 
-**Sparql**:
+**SPARQL**: SPARQL (short for 'SPARQL Protocol and RDF Query Language') is a standard designed and endorsed by the W3C and enables users to query information from databases or any data source that can be mapped to RDF.
 
 **Static vs.dynamic website**:
 
 **TEI**: TEI is an acronym for Text Encoding Initiative, a standard used to encode historical and literary documents in XML.
 
-**URI**:
+**URI**: URI is an acronym for Uniform Resource Identifier. It is is a unique identifier for an abstract or physical resource that is, oftentimes, connected to the internet and helps users distinguish resources such as electronic documents, webpages, and information sources, from another. URIs execute internet protocols to allow users to interact with such resources. The most common form of a URI is a URL, which is commonly known as a web address.
 
 **URL**: URL is an acronym for Uniform Resource Locator. It is a reference or address used to locate resources such as web pages, files, or other online content. It typically consists of a protocol identifier (_e.g._, http or https), a domain name, and a specific path to the resource.
 
