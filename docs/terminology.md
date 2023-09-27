@@ -22,11 +22,10 @@ from the device or program, in the form of lines of text
 
 **cURL**: or client URL is a command line tool for file transfer with a URL syntax. It supports a number of protocols including HTTP, HTTPS, FTP, and many more. It is also used for interacting with APIs
 
-**CRUD (Create, Read, Update, and Delete)**
+**CRUD (Create, Read, Update, and Delete)**: is a computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for "Client for URL".[8]
 
-is a computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for "Client for URL".[8]
-
-**Digital vs. digitized editions**:
+**Digital vs. digitized editions**: while a digitized edition is a simple representation of a paper edition in a digital means, a digital edition cannot be given in print without a significant loss of content. It typically comprises advanced search functionalities, 
+different data visualization modes and links to document images.
 
 **DOI Digital Object Identifier**: DOI (Digital Object Identifier) is a string of numbers, letters and symbols used to permanently identify an article or document and link to it on the web. A DOI helps a reader to easily locate a document from a citation.
 
@@ -36,7 +35,7 @@ is a computer software project providing a library (libcurl) and command-line to
 **FAIR**: FAIR is a set of principles published in 2016 in Scientific Data, which recommends the behaviour to which we are expected to conform when publishing data online. It is an acronym for 
 Findability, Accessibility, Interoperability, Reuse.
 
-**Fork**:
+**Fork**:  "to fork" means to copy a piece of code from a software and start to develop a new version of it.
 
 **GIS**: GIS is the acronym of Geographic Information System, a system designed to capture, store, manipulate, analyze, manage, and visualize spatial or geographic data, enabling queries,
  data analysis and their representation in maps.
@@ -44,13 +43,13 @@ Findability, Accessibility, Interoperability, Reuse.
 *GUI*:  a Graphic User Interface is an infrastructure (typically a desktop application or a website) that allows users to interact (search and query) a database in a way that 
 is relatively intuitive and to this end makes use of graphical elements such as buttons, icons, images, graphs, etc. (hence “graphical”).
 
-**Interface**:
+**Interface**:  an interface is a tool that enables two parts of  a computer system to communicate. This includes the communicatio between a human user and  a computer (see also GUI above).
 
 **LOD**: LOD, an acronym for Linked Open Data, is structured data which is interlinked with other data and is the basis of the Semantic Web, as conceived by Tim Berners-Lee, who coined the term in a 2006.
 
-**Ontology**:
+**Ontology**: 
 
-**Populate**:
+**Populate**: enter data into a database.
 
 **Programming language**:
 
