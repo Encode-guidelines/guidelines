@@ -45,13 +45,15 @@ is relatively intuitive and to this end makes use of graphical elements such as 
 
 **Interface**:  an interface is a tool that enables two parts of  a computer system to communicate. This includes the communicatio between a human user and  a computer (see also GUI above).
 
-**LOD**: LOD, an acronym for Linked Open Data, is structured data which is interlinked with other data and is the basis of the Semantic Web, as conceived by Tim Berners-Lee, who coined the term in a 2006.
+**LOD**: LOD, an acronym for Linked Open Data, is structured data which is interlinked with other data and is the basis of the Semantic Web, as conceived by Tim Berners-Lee, who coined the term in a 2006.r
 
-**Ontology**: 
+**Ontology**:  a system of concepts (e.g. inscription), properties (e.g. damaged), categories (e.g.  a given inscription collection), and relations (e.g. "belonging to a given collection" or "being damaged") 
+used to formally describe a given subject are (e.g. epigraphy, Roman literature). Every "thing" that we want to formally describe, for example in  database will be assigned to one of these classes.
+
 
 **Populate**: enter data into a database.
 
-**Programming language**:
+**Programming language**: a formal language, usually text based, for writing computer programs.
 
 **Relational Database**: Relational Database is a way to store data in tables, according to the relational model which represents data as entities, attributes, and relationships between entities and attributes or relationships between two entities.
 
@@ -67,7 +69,8 @@ is relatively intuitive and to this end makes use of graphical elements such as 
 
 **URL**: URL is an acronym for Uniform Resource Locator. It is a reference or address used to locate resources such as web pages, files, or other online content. It typically consists of a protocol identifier (_e.g._, http or https), a domain name, and a specific path to the resource.
 
-**Versioning**:
+**Versioning**: assign unique identifiers (names, numbers) to different versions of a piece of code or a software in order to keep track of the changes (and the authors of the changes). 
+This obviously allows to go back to a previous version of the code.
 
 **Written Artefacts**: «As for written artefacts we take the broad working definition of any artificial or natural object that have written or pictorial (visual) signs. This definition includes the traditional notion of manuscript, in all attested book forms, and inscription, and at the same time goes well beyond these broad categories» (Cluster of Excellence ‘Understanding Written Artefacts’ Universität Hamburg). 
 
