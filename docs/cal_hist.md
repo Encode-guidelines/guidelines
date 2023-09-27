@@ -60,7 +60,7 @@ Competences for the training activities designed and delivered in the ENCODE pro
 
     can plan and develop a sequence of understandable instructions for a computer to solve a given problem or perform a specific task (e.g. give instruction through XML for searching XML database dnd and XPath and XSLT for transforming XML files). (DigComp2.1/3.3 level 4/5).
 
-## 4 SAFETY
+## COMPETENCE AREA 4 SAFETY
 
 - 4.1 PROTECTING DEVICES AND DIGITAL CONTENT
 
