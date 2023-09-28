@@ -61,7 +61,10 @@ used to formally describe a given subject are (e.g. epigraphy, Roman literature)
 
 **SPARQL**: SPARQL (short for 'SPARQL Protocol and RDF Query Language') is a standard designed and endorsed by the W3C and enables users to query information from databases or any data source that can be mapped to RDF.
 
-**Static vs.dynamic website**:
+**Static vs.dynamic website**: is a website is entirely precompiled and stored as HTML files. A static website has limited search possibilities, basically limited to text searches. A dynamic website is more interactive,
+and the content shown can be changed by the user, typically interacting with a database from which data are extracted through queries and shown as query results on the website. The structure of a dynamic website
+usually comprises, in addition to HTML files, also various other file types, written in different programming languages: CSS files, used to describe the presentation, i.e.,  the appearance of a web page,
+JavaScript files, used to make web pages interactive; PHP, Python or XSLT (in the case of XML databases) used to connect the web page to the database.
 
 **TEI**: TEI is an acronym for Text Encoding Initiative, a standard used to encode historical and literary documents in XML.
 
