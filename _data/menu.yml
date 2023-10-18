@@ -41,6 +41,8 @@
          link: /leiden+/
        - name: "2.2.4 Papyri.info"
          link: /papyri_info/
+       - name: "2.2.5 TM Data Services "
+         link: /tm/
        - name: "2.2.5 Sustainability"
          link: /sustain/
     - name: "2.3 Pedagogical resources for teachers"
