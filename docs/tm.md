@@ -1,10 +1,17 @@
-# Trismegistos Data Services User Guidelines
+---
+layout: page
+title: Best Practices > Trismegistos Data Services User Guidelines
+permalink: /tm/
+show_sidebar: false
+menubar: menu
+toc: true
+toc_title: Best Practices > Trismegistos Data Services User Guidelines
+hero_height: is-small
+hero_image: /guidelines/images/gortyna.jpg
+---
 
-This guide provides information on how to effectively use the Trismegistos Data Services, designed for anyone interested in working with historical and geographical data from the ancient world.
 
-## General Information
-
-The Trismegistos Data Services portal is developed within the Linked Open Data framework of DARIAH-BE and CLARIAH-VL. All the data is available under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
+This guide provides information on how to effectively use the Trismegistos Data Services, designed for anyone interested in working with historical and geographical data from the ancient world. The Trismegistos Data Services portal is developed within the Linked Open Data framework of DARIAH-BE and CLARIAH-VL. All the data is available under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Available Services
 
