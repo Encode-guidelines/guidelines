@@ -37,7 +37,9 @@
        link: /lod/    
      - name: "2.2.4 Papyri.info"
        link: /papyri_info/
-     - name: "2.2.5 Sustainability"
+     - name: "2.2.5 Trismegistos Data Services"
+       link: /tm/
+     - name: "2.2.6 Sustainability"
        link: /sustain/
  - name: "Courses"
    link: /soft_carp/
