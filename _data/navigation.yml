@@ -13,9 +13,9 @@
       link: /calohee/
     - name: "1.4.3 DigComp 2.2 Framework"
       link: /digcomp/      
-    - name: "1.4.4 Competences as entry requirements for the ENCODE training"
+    - name: "1.4.4 Appendix 1: Competences as entry requirements for the ENCODE training (based on CALOHEE)"
       link: /entry/
-    - name: "1.4.5 CALOHEE History Reference and Assessment Framework - Level 6"
+    - name: "1.4.5 Appendix 2: Competences for the training activities designed according to DigComp 2.2"
       link: /cal_hist/
  - name: "Building a corpus"
    link: /db_creation/
