@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Introduction > Competences > Entry competences for the  ENCODE  training activities
+title: Introduction > Competences > Appendix 1
 permalink: /entry/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title:  Introduction > Competences  > Entry competences for the  ENCODE  training activities
+toc_title:  Introduction > Competences  > Appendix 1
 hero_height: is-small
 hero_image: /guidelines/images/gortyna.jpg
 ---
