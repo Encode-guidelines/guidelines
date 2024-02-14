@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Introduction > Competences > CALOHEE History Reference and Assessment Framework - Level 6.
+title: Introduction > Competences > Appendix 2.
 permalink: /cal_hist/
 show_sidebar: false
 menubar: menu
 toc: true
-toc_title:  Introduction > Competences > CALOHEE History Reference and Assessment Framework - Level 6.
+toc_title:  Introduction > Competences > Appendix 2.
 hero_height: is-small
 hero_image: /guidelines/images/gortyna.jpg
 ---
 
-Competences for the training activities designed and delivered in the ENCODE project from CALOHEE History Reference and Assessment Framework - Level 6.
+Competences for the training activities designed and delivered in the ENCODE project from DigComp 2.2.
 
 ## COMPETENCE AREA 1: INFORMATION AND DATA LITERACY
 
